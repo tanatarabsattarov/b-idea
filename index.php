@@ -51,7 +51,28 @@
 <div class="menu-types__item"><a href="hr.php" class="menu-types__link">HR</a></div>
 <div class="menu-types__item"><a href="#" class="menu-types__link">Трудовое право</a></div>
 </div>
-<section class="program grey" style="margin-top:80px;">
+<section style="background: url('../about/images/our_team/5.jpg') no-repeat center center/cover">
+	<div class="about" style="background: linear-gradient(rgba(255,255,255,.8), rgba(255,255,255,.9));">
+	<div class="container">
+	<h2 style="padding-bottom: 0;margin-bottom: 0;">Бизнес Школа IDEA</h2>
+	<p class="about_text">это профессиональный провайдер образовательных и консалтинговых услуг</p>
+	<h3>Наша Миссия: <span>распространение  и развитие в Казахстане культуры менеджмента</span></h3>
+	<div class="row">
+		<div class="col-md-6">
+			<p><span>200+</span><br>
+				профессиональных экспертов, тренеров, преподавателей, консультантов - практиков, в числе которых: консультанты с опытом руководства в HR подразделений крупнейших компаний (10-20 лет), тренеры, имеющие большой практический опыт работы в ведущих компаниях и учебных центрах
+			</p>
+		</div>
+		<div class="col-md-6">
+			<p><span class="eighty">80</span><br>
+				авторских программ обучения в области управления, управления персоналом, регулирования трудовых отношений и проведения закупок в РК
+			</p>
+		</div>
+	</div>
+	</div>
+	</div>
+</section>
+<!-- <section class="program grey" style="margin-top:80px;">
 <div class="container">
 	<h2 id="comming_soon">Ближайшие Программы</h2>
 		
@@ -64,7 +85,7 @@
 				<div class="program-announce__mounth">апреля</div>
 			</div>
 		</a>
-		</div><!-- end col-md-3 -->
+		</div>
 		<div class="col-md-7">
 		<a class="program-announce__middle" href="vahta_gileva.php">
 			<div class="program-announce__speaker">
@@ -84,12 +105,12 @@
 				<span class="js-font-size">Вахтовый метод: особенности регулирования трудовых отношений</span>
 			</div>
 		</a>
-		</div><!-- end col-md-7 -->
+		</div>
 		<div class="col-md-2 more_info_parent">
 		<a class="more_info" href="vahta_gileva.php">Подробнее</a>
-		</div><!-- end col-md-2 -->
-	</div><!-- end row -->	
+		</div>
+	</div>
 	
 </div>
-</section>
+</section> -->
   <?php include("includes/footer.html"); ?>
