@@ -1,0 +1,91 @@
+.corporatebanner {
+	background: center center no-repeat url('../images/corporate_bg.jpg') /cover;
+	color: #fff;
+}
+.corporate h1 {
+	font: 6vw/6vw 'Yanone Kaffeesatz', sans-serif;
+	padding: 150px 0px;
+	margin: 0;
+}
+.corporate h2 {
+	font-family: 'Roboto Slab', serif;
+	padding: 10px;
+	margin-bottom: 50px;
+}
+.HR {
+	padding-bottom: 50px;
+}
+.HR ul li {
+    margin-left: 1em;
+    -webkit-column-break-inside:avoid;
+    -moz-column-break-inside:avoid;
+    -o-column-break-inside:avoid;
+    -ms-column-break-inside:avoid;
+    column-break-inside:avoid;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.HR ul {
+    list-style: outside disc;
+    -webkit-column-count: 3;
+    -webkit-column-gap:2em;
+    -moz-column-count:3;
+    -moz-column-gap:2em;
+    -o-column-count:3;
+    -o-column-gap:2em;
+    column-count:3;
+    column-gap:2em;
+}
+/*
+.HR .container {
+	overflow: hidden;
+}
+.HR ul {
+	padding: 0;
+	margin: 0;
+}
+.HR li {
+	list-style: none;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+    float: left;
+    width: 150px;
+    height:100px;
+    font-size: 13px;
+    color:#000;
+    margin:0 10px 10px 0px;
+    padding: 10px;
+	background: #fde48a;
+}
+.HR li:nth-of-type(7n) {
+	margin-right: 0px;
+}
+.HR li:hover {
+	background: #f4d564;
+}*/
+@media (max-width: 992px) { 
+	
+	.corporate h1 {
+	font: 25px/25px 'Yanone Kaffeesatz', sans-serif;
+	padding: 80px 0px;
+}
+	.HR ul {
+	-webkit-column-count: 1;
+    -moz-column-count:1;
+    -o-column-count:1;
+    column-count:1;	
+	}
+}
+/*
+	.HR li {
+		display: flex;
+		width:48%;
+	}
+	.HR li:nth-of-type(2n) {
+	margin-right: 0px !important;
+}
+.HR li:nth-of-type(1n) {
+	margin-right: 10px;
+}
+}*/

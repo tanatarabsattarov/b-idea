@@ -1,0 +1,209 @@
+.corporatebanner {
+	background: no-repeat url('../images/corporate_bg.jpg') top center/100%;
+	color: #fff;
+	background-color: #3d3c75;
+}
+.corporate h1 {
+	font: 80px/60px 'Yanone Kaffeesatz', sans-serif;
+	padding-top: 550px;
+	padding-bottom: 30px;
+	margin: 0;
+	text-transform: uppercase;
+}
+.corporate h1 span {
+	text-transform: lowercase;
+	font-size: 60px;
+}
+.corporatebanner ul {
+	font-size: 1.5em;
+	margin:0px auto;
+	padding-bottom: 70px;
+	max-width:960px;
+	list-style-type: square;
+}
+.corporate h2 {
+	font-weight: 600;
+	text-transform: uppercase;
+	padding:0px;
+	margin-bottom: 50px;
+	color:#3d3c75;
+}
+.corporate .middle {
+	background: url('../images/skyscraper.jpg') no-repeat center right/contain;
+}
+.corporate .middle .overlay {
+	padding: 50px 0;
+	background: linear-gradient(to right, rgba(255,255,255,255) 60%,rgba(255,255,255,0.9) 65%,rgba(255,255,255,0) 70%);
+}
+.big {
+	font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+	font-size: 60px;
+	color:#fff;
+	font-weight: 500;
+	background: #3d3c75;
+	border-radius: 15px;
+	line-height: 70px;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+}
+.col-md-8 p {
+	font-size: 21px;
+	line-height: 27px;
+	color:#3d3c75;
+	margin: 0;
+	padding: 0;
+}
+.common_directions {
+	background: url('../images/corporate_basement.jpg') no-repeat top center/100%;
+	background-color: #14102b;
+}
+.common_directions .container {
+  padding-top: 500px;
+	padding-bottom: 100px;
+}
+.common_directions a {
+	margin: 0 !important;
+	padding: 0 !important;
+	outline: none;
+}
+.common_directions a.active, .common_directions a:hover {
+	background: rgba(255,255,255,.7);
+	color:#14102b !important;
+}
+.corporate .overlay {
+  background:rgba(0,0,0,.4)
+}
+.common_directions h2 {
+	color:#fff;
+}
+.common_directions .row {
+	justify-content: space-evenly;
+}
+.common_directions .col-sm-3 {
+	background: rgba(0, 0, 0, 0.3);
+	height: 130px;
+	border:2px solid white;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	font-size: 25px;
+	color:#fff;
+}
+.common_directions ol {
+	font-size: 1.3em;
+	color:#fff;
+	margin:0;
+	padding: 30px 50px;
+}
+.corporate_bottom {
+	padding: 20px 0px;
+	font-size: 24px;
+	color:#3d3c75;
+}
+.corporate_bottom .col-sm-3 {
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+}
+.corporate_bottom .col-sm-3 i {
+	margin-right: 10px;
+}
+.HR {
+	padding-bottom: 50px;
+}
+.HR ul li {
+    margin-left: 1em;
+    -webkit-column-break-inside:avoid;
+    -moz-column-break-inside:avoid;
+    -o-column-break-inside:avoid;
+    -ms-column-break-inside:avoid;
+    column-break-inside:avoid;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.HR ul {
+    list-style: outside disc;
+    -webkit-column-count: 3;
+    -webkit-column-gap:2em;
+    -moz-column-count:3;
+    -moz-column-gap:2em;
+    -o-column-count:3;
+    -o-column-gap:2em;
+    column-count:3;
+    column-gap:2em;
+}
+/*
+.HR .container {
+	overflow: hidden;
+}
+.HR ul {
+	padding: 0;
+	margin: 0;
+}
+.HR li {
+	list-style: none;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+    float: left;
+    width: 150px;
+    height:100px;
+    font-size: 13px;
+    color:#000;
+    margin:0 10px 10px 0px;
+    padding: 10px;
+	background: #fde48a;
+}
+.HR li:nth-of-type(7n) {
+	margin-right: 0px;
+}
+.HR li:hover {
+	background: #f4d564;
+}*/
+@media (max-width: 992px) { 
+	
+	.corporate h1 {
+	font: 60px/60px 'Yanone Kaffeesatz', sans-serif;
+	padding-top: 180px;
+}
+	.corporate h2 {
+		font-size: 30px;
+	}
+	.corporate ul {
+	-webkit-column-count: 1;
+    -moz-column-count:1;
+    -o-column-count:1;
+    column-count:1;	
+    font-size: 20px;
+	}
+	.corporate .big {
+	margin: 0 5px 10px
+	}
+	.corporate .middle {
+	background-size: cover;
+	}
+	.corporate .middle .overlay {
+	padding: 50px 0;
+	background: linear-gradient(to right, rgba(255,255,255,255) 30%,rgba(255,255,255,0.9) 40%,rgba(255,255,255,0) 70%);
+	}
+	.common_directions {
+	padding-top: 100px;
+	padding-bottom: 50px;
+	}
+}
+/*
+	.HR li {
+		display: flex;
+		width:48%;
+	}
+	.HR li:nth-of-type(2n) {
+	margin-right: 0px !important;
+}
+.HR li:nth-of-type(1n) {
+	margin-right: 10px;
+}
+}*/

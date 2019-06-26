@@ -1,0 +1,74 @@
+.tz-gallery {
+    padding: 40px;
+}
+
+.about_us .tz-gallery .lightbox img, .homepage .tz-gallery .lightbox img {
+    width: 100%;
+    margin-bottom: 30px;
+    transition: 0.2s ease-in-out;
+    box-shadow: 0 2px 3px rgba(0,0,0,0.2);
+    object-fit: cover;
+    height: 250px;
+}
+.review .tz-gallery .lightbox img {
+	height: 330px;
+}
+
+.about_us .tz-gallery .lightbox img:hover, .homepage .tz-gallery .lightbox img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 15px rgba(0,0,0,0.3);
+}
+
+.about_us .tz-gallery img, .homepage .tz-gallery img {
+    border-radius: 4px;
+}
+
+.baguetteBox-button {
+    background-color: transparent !important;
+    outline: none !important;
+}
+
+
+.tz-gallery .thumbnail {
+    padding: 0;
+    margin-bottom: 30px;
+    background-color: #fff;
+    border-radius: 4px;
+    border: none;
+    transition: 0.15s ease-in-out;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.06);
+}
+
+.tz-gallery .thumbnail:hover {
+    transform: translateY(-10px) scale(1.02);
+}
+
+.tz-gallery .caption{
+    text-align: center;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+	align-items: center;
+}
+
+.tz-gallery .caption h3 {
+    font: 20px/25px 'Roboto Slab', serif;
+    margin-top: 0;
+    font-weight: 300;
+    color:#fff;
+}
+
+.tz-gallery .caption p {
+    font-size: 14px;
+    color: #7b7d7d;
+    margin: 0;
+}
+
+.corporate .tz-gallery .lightbox img {
+    width: 100%;
+    object-fit: cover;
+    height: 150px;
+}
+.corporate .tz-gallery .caption {
+	background: rgba(36, 35, 57, 0.9);
+}

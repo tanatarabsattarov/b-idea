@@ -1,0 +1,383 @@
+/* MANAGYM */
+.top {
+	background: url('../images/managym_top_bg.jpg') no-repeat center center /cover;
+	color:#fff;
+}
+.top .overlay {
+	padding:40px 0px;
+}
+.top h1 {
+	font-size: 10vw;
+	color:#a30000;
+}
+.top h1 span {
+	color:#f4eb8d;
+}
+.top h2 {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	color:#fff;
+	font: 3vw/3vw "Proxima Nova Black";
+}
+.top h2 span {
+}
+.top h3 {
+	color:#f4eb8d;
+	padding-top: 20px;
+	font: 2vw/2vw "Proxima Nova Bold";
+}
+.speaker {
+	background: url('../images/anushkinbg.jpg') no-repeat bottom left /cover;
+	color: #fff !important;
+	font-size: 1.3rem;
+}
+.speaker img {
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+}
+.speaker li {
+	margin: 20px 0px;
+}
+.speaker h1 {
+	font-size: 3rem;
+	text-align: center;
+	line-height: 4rem;
+	border-bottom: 2px solid #fff;
+	margin-top: 60px;
+}
+.speaker .quote {
+	font-family: 'Bad Script', cursive;
+	padding-top: 30px;
+}
+.speaker p {
+	margin: 0px 0px 40px 0px;
+}
+.quoteline {
+	margin-top: 50px;
+}
+.quoteline::before {
+	content: "„";
+    margin-left: 30px;
+    margin-top: -20px;
+    display: inline-block;
+    font-size: 120px;
+    font-style: normal;
+    line-height: 0;
+}
+.benefits {
+	font-size: 25px;
+	line-height: 30px;
+	color: #fff;
+	background: url('../images/managym_results_bg.jpg') no-repeat center center/cover;
+}
+.benefits .overlay {
+	padding: 0px;
+	background: rgba(0,0,0,.8);
+}
+.benefits p {
+	margin:40px 0px;
+}
+.benefits p::before {
+	content: '';
+    display: block;
+    width: 44px;
+    height: 44px;
+    background: url('../images/check.png') no-repeat 0 0;
+    margin-bottom: 14px;
+}
+.goal {
+	background: #ffffff;
+    text-align: left;
+    overflow: auto;
+    color: #3e3e4c;
+    min-height:150px;
+    vertical-align: middle;
+}
+.goal img {
+	float: left;
+	max-height:150px;
+	margin-right: 20px;
+}
+.goal h2 {
+	padding: 0px 20px 0px 0px;
+	margin: 0;
+	font: 55px/55px 'Proxima Nova Black', Arial, sans-serif;
+	text-align: right;
+	border-right: 2px solid;
+}
+.goal p {
+	font: 23px/25px 'Proxima Nova Bold', Arial, sans-serif;;
+	padding: 0;
+	margin: 0;
+}
+.goal .col-md-2:nth-child(2), .goal .col-md-8 {
+	padding:48px 10px;
+}
+.managym .program {
+	background: #f4eb8d;
+	padding-bottom: 40px;
+	padding-top: 40px;
+}
+.managym .program .carousel-item {
+	background-color: #ffffff;
+    padding: 40px 120px;
+}
+.managym .program .carousel-inner {
+	border: 4px solid #3e3e4c;
+		background-color: #ffffff;
+    padding: 40px 120px;
+	
+}
+.managym .program .carousel-control-prev, .program .carousel-control-next {
+	width:10%;
+}
+.managym .program h1 {
+	font-size: 30px;
+	margin-bottom: 30px;
+}
+.managym .program h2 {
+	color:#3e3e4c;
+	font-weight: 400;
+}
+.managym .program li, .program p {
+	font-size: 20px;
+	margin-top: 10px;
+}
+.managym .program p {
+	font-family: 'Proxima Nova Bold', Arial, sans-serif;
+}
+.managym .cost i {
+	color:#fff;
+	margin: 0px;
+}
+.managym .cost {
+	overflow: hidden;
+	padding:20px 0px;
+	background: #ffffff;
+}
+.managym .cost p {
+	font-size: 23px;
+}
+.managym .cost .round {
+	display: inline-block;
+	border-radius:50%;
+	background:#a30000;
+	width:150px;
+	height:150px;
+	padding: 30px 0px;
+	color: #fff;
+	margin:20px 0px;
+	box-shadow: 3px 3px 7px rgba(104,110,132,0.5);
+}
+.managym .cost .round p {
+	font-size: 18px;
+	line-height: 19px;
+	margin-top: 5px;
+}
+.managym .cost h2 {
+	font-family: 'Proxima Nova Regular', Arial, sans-serif;
+}
+
+.managym .cost ul {
+    list-style: none;
+    -webkit-column-count: 2;
+    -webkit-column-gap:3em;
+    -moz-column-count:2;
+    -moz-column-gap:3em;
+    -o-column-count:2;
+    -o-column-gap:3em;
+    column-count:2;
+    column-gap:3em;
+}
+.managym .cost ul li {
+	font-size: 20px;
+	padding-top: 20px;
+	margin-bottom: 20px;
+	margin-left:20px;
+}
+.managym .cost ul li::before {
+	content: '';
+	position: absolute;
+	margin-left: -60px;
+    display: block;
+    width: 44px;
+    height: 44px;
+    background: url(../images/check2.png) no-repeat 0 0;
+}
+
+.managym .menu-types {
+	overflow: hidden;
+	font-family: 'Proxima Nova Bold', Arial, sans-serif;
+	padding: 5px;
+	background: none;
+}
+.managym .menu-types .menu-types__link {
+	height:130px;
+	font-size: 18px;
+	color: inherit !important;
+	border-radius: 10px;
+}
+.managym .menu-types .menu-types__item {
+	width: 20%;
+	padding: 15px;
+}
+.stages {
+	display: table;
+	width: 100%;
+}
+.method {
+	width:30%;
+	display: table-cell;
+	background-color: #f4eb8d;
+	color: #000;
+    vertical-align: top;
+    position: relative; 
+    padding-top: 40px;
+}
+.method::before {
+content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 100%;
+    display: block;
+    width: 1000px;
+    background: #f4eb8d;
+}
+.method ul li {
+	font-size: 18px;
+	padding: 12px 10px 12px 0px;
+	font-family: 'Proxima Nova Bold', Arial, sans-serif;
+}
+.cost_info {
+	display: table-cell;
+    width: 70%;
+    vertical-align: top;
+    vertical-align: top;
+    position: relative;
+    padding-top: 40px !important;
+    background: 
+}
+.cost_info p {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 18px;
+}
+.form_submit p {
+	font-size: 1.3rem;
+}
+.form_submit .formtitle {
+    font-size: 24px;
+    color: #fff;
+    line-height: 23px;
+    text-align: center;
+    margin-bottom: 36px;
+}
+.form_submit .formtitle SPAN {
+    display: block;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+.form_submit .form_bg {
+	float: right;
+    width: 100%;
+    max-width: 381px;
+    padding: 57px 10px 18px 10px;
+    color: #fff;
+    text-align: center;
+}
+.form_submit .form-submit-button {
+    display: inline-block;
+    width: 100%;
+    max-width: 248px;
+    height: 53px;
+    padding: 0;
+    background: #a30000;
+    box-shadow: 0 0 7px rgba(0,0,0,0.28);
+    border: 0;
+    border-radius: 2px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+    line-height: 53px;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    opacity: 1;
+    margin: 20px 0px;
+}
+.form_submit input {
+	font-size: 1.1rem;
+	padding: 10px 15px;
+	margin-bottom: 10px;
+}
+
+.managym .form_submit h2 {
+	font: 32px/32px "Proxima Nova Black";
+}
+
+.form_submit h3 {
+	font: 26px/26px "Proxima Nova Bold";
+}
+.form_submit h1 {
+	font-size: 8vw;
+}
+footer {
+	background-color: #0e0e0e;
+	color:#fff;
+}
+@media (max-width: 992px) { 
+	
+.speaker img  {
+	position: relative !important;
+	width: 100% !important;
+}
+.top h1 {
+	font-size: 14vw;
+}
+.top h3 {
+	font-size: 4vh;
+	line-height: 4vh;
+}
+.top h2 {
+	font-size: 5vh;
+	line-height: 7vh;
+}
+.cost_info, .method {
+	width:100%;
+	display:block;
+}
+.method::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 100%;
+    display: block;
+    width: 15px;
+    background: #f4eb8d;
+}
+.managym .program h1 {
+	font-size:18px;
+}
+.managym .program p, .managym .program li {
+	font-size:15px;
+}
+.managym .program .carousel-item {
+	padding:30px 50px;
+}
+.managym .menu-types .menu-types__item, .managym .menu-types .menu-types__link {
+    display: inline-block;
+    width: 100%;
+    line-height: normal;
+}
+.managym .menu-types .menu-types__link {
+	padding: 25px 0px;
+	height:70px;
+}
+.managym .cost .col-lg-2 {
+	width:50%;
+}
+}
