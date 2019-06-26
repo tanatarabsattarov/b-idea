@@ -53,7 +53,7 @@
 </div>
 
 <section style="background: url('../about/images/our_team/5.jpg') no-repeat center center/cover">
-	<div class="about" style="background: linear-gradient(rgba(255,255,255,.8), rgba(255,255,255,.9));padding-top:100px;">
+	<div class="about" style="background: linear-gradient(rgba(255,255,255,.8), rgba(255,255,255,.9));padding:100px 0px;">
 	<div class="container">
 	<h2 style="padding-bottom: 0;margin-bottom: 0;">Бизнес Школа IDEA</h2>
 	<p class="about_text">это профессиональный провайдер образовательных и консалтинговых услуг</p>
