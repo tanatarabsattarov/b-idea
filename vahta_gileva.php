@@ -9,7 +9,7 @@
 	    <div style="background:url('images/gileva.jpg') no-repeat right bottom/contain;">
 		<div class="container">
 			
-			<h1 style="color: rgb(82, 13, 35); text-shadow: 2px 2px #000;">Вахтовый метод работы</h1>
+			<h1 style="color: rgb(82, 13, 35); text-shadow: 2px 2px #8c8e90;">Вахтовый метод работы</h1>
 			<br>
 			<h4><span style="color:rgba(255,255,255,.9);">Особенности регулирования трудовых отношений</span></h4>
 			<p><span class="date" style="color:rgb(82, 13, 35);">15-16</span> апреля 2019 года<br>
