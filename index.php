@@ -51,7 +51,8 @@
 <div class="menu-types__item"><a href="hr.php" class="menu-types__link">HR</a></div>
 <div class="menu-types__item"><a href="#" class="menu-types__link">Трудовое право</a></div>
 </div>
-<section style="background: url('../about/images/our_team/5.jpg') no-repeat center center/cover">
+
+<section style="background: url('../about/images/our_team/5.jpg') no-repeat center center/cover; padding-top:100px;">
 	<div class="about" style="background: linear-gradient(rgba(255,255,255,.8), rgba(255,255,255,.9));">
 	<div class="container">
 	<h2 style="padding-bottom: 0;margin-bottom: 0;">Бизнес Школа IDEA</h2>
