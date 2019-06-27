@@ -136,18 +136,22 @@
 </div>
 </section>
 <hr>
-	    <section class="container marketing cost center">
+<section class="container marketing cost center">
 		    <h4>Стоимость включает:</h4>
 		    <div class="row">
-          <div class="col-lg-4">
+          <div class="col-lg-3">
             <i class="fa fa-graduation-cap fa-5x" aria-hidden="true"></i>
             <h6>Обучение</h6>
           </div><!-- /.col-lg-3 -->
-		  <div class="col-lg-4">
+		  <div class="col-lg-3">
             <i class="fa fa-coffee fa-5x" aria-hidden="true"></i>
             <h6>Кофе-брейки</h6>
           </div><!-- /.col-lg-3 -->
-          <div class="col-lg-4">
+          <div class="col-lg-3">
+            <i class="fa fa-cutlery fa-5x" aria-hidden="true"></i>
+            <h6>Обеды</h6>
+          </div><!-- /.col-lg-3 -->
+          <div class="col-lg-3">
             <i class="fa fa-check-circle fa-5x" aria-hidden="true"></i>
             <h6>Все налоговые сборы</h6>
           </div><!-- /.col-lg-3 -->

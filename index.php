@@ -6,12 +6,31 @@
         <ol class="carousel-indicators">
           <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
           <li data-target="#myCarousel" data-slide-to="1"></li>
-          <li data-target="#myCarousel" data-slide-to="2"></li>
+		  <li data-target="#myCarousel" data-slide-to="2"></li>
+		  <li data-target="#myCarousel" data-slide-to="3"></li>
    	        </ol>
-
+	
+	
         <div class="carousel-inner">
-
-          <div class="carousel-item active">
+		<div class="carousel-item active">
+		<div class="mainbanner" style="background:url('images/bgforbanner2.jpg') repeat center center/contain;;">
+	    <div style="background:url('images/gileva.jpg') no-repeat right bottom/contain;">
+		<div class="container">
+			
+			<h1 style="color: rgb(82, 13, 35); text-shadow: 2px 2px #8c8e90;">Вахтовый метод работы</h1>
+			<br>
+			<h4><span style="color:rgba(255,255,255,.9);">Особенности регулирования трудовых отношений</span></h4>
+			<p><span class="date" style="color:rgb(82, 13, 35);">26-27</span> октября 2019 года<br>
+			город <span class="city" style="color:rgb(82, 13, 35);"><b>Актау</b></span></p>
+			
+			<div class="row">
+			<div class="col-md-6"><a href="https://form.jotform.com/62335883866166" target="_blank" style="background-color: #511124;" class="register">Принять участие</a></div>
+			</div>
+    	</div>
+	    </div>
+	</div>
+		</div>
+          <div class="carousel-item">
 			<div class="corporate corporatebanner">
 			  <div class="overlay" style="height:550px;">
 				<h1 class="center" style="padding-top: 200px">Корпоративное обучение</h1>
