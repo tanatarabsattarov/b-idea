@@ -12,7 +12,7 @@
 	
 	
         <div class="carousel-inner">
-		<div class="carousel-item active">
+		<div class="carousel-item template active">
 		<div class="mainbanner" style="background:url('images/bgforbanner2.jpg') repeat center center/contain;;">
 	    <div style="background:url('images/gileva.jpg') no-repeat right bottom/contain;">
 		<div class="container">
