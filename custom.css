@@ -431,7 +431,7 @@ a.navbar-brand {
 		
 }
 .about p span.eighty::before {
-	content: '"';
+	content: 'более';
 	position: absolute;
 	font-size: 25px;
 	top:0;
