@@ -24,7 +24,7 @@
 			город <span class="city" style="color:rgb(82, 13, 35);"><b>Актау</b></span></p>
 			
 			<div class="row">
-			<div class="col-md-6"><a href="https://form.jotform.com/62335883866166" target="_blank" style="background-color: #511124;" class="register">Принять участие</a></div>
+			<div class="col-md-6"><a href="/vahta_gileva.php" target="_blank" style="background-color: #511124;" class="register">Принять участие</a></div>
 			</div>
     	</div>
 	    </div>
