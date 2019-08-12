@@ -12,7 +12,7 @@
 			<h1 style="color: rgb(82, 13, 35); text-shadow: 2px 2px #8c8e90;">Вахтовый метод работы</h1>
 			<br>
 			<h4><span style="color:rgba(255,255,255,.9);">Особенности регулирования трудовых отношений</span></h4>
-			<p><span class="date" style="color:rgb(82, 13, 35);">26-27</span> октября 2019 года<br>
+			<p><span class="date" style="color:rgb(82, 13, 35);">26-27</span> сентября 2019 года<br>
 			город <span class="city" style="color:rgb(82, 13, 35);"><b>Актау</b></span></p>
 			
 			<div class="row">
