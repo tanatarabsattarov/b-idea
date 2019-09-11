@@ -3,14 +3,14 @@
 	include("includes/header.html"); ?>
 
     <main class="template">
-    <div class="mainbanner" style="background-image:url('images/bgforbanner.jpg');">
+    <div class="mainbanner" style="background-image:url('images/bgforbanner.jpg'); background-size:20vw">
 		<div class="image">
 			<div class="container">
 			<h1>Нормирование и оплата труда:</h1>
 
 			<h4><span>изменения в законодательстве, типичные
 ошибки<br>и способы их решения</span></h4>
-			<p><span class="date">16-17</span> октября 2018 года<br>
+			<p><span class="date">7-8</span> ноября 2019 года<br>
 			<span class="city">г. Актау</span></p>
 			
 			<div class="row">
