@@ -6,7 +6,7 @@
     <div class="mainbanner" style="background-image:url('images/bgforbanner.jpg')">
 		<div class="image">
 			<div class="container">
-			<h1>Нормирование и оплата труда:</h1>
+			<h1>Семинар по оплате труда</h1>
 
 			<h4><span>изменения в законодательстве, типичные
 ошибки<br>и способы их решения</span></h4>
