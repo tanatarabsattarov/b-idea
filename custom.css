@@ -848,7 +848,8 @@ a.navbar-brand img {
 	width:100%;
  }
  .mainbanner .container {
-	background: none;	 
+	background: none;
+	padding:20px 0px;
  }
  .image {
 	background-size: 80%;
