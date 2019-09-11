@@ -3,7 +3,7 @@
 	include("includes/header.html"); ?>
 
     <main class="template">
-    <div class="mainbanner" style="background-image:url('images/bgforbanner.jpg'); background-size:20vw">
+    <div class="mainbanner" style="background-image:url('images/bgforbanner.jpg')">
 		<div class="image">
 			<div class="container">
 			<h1>Нормирование и оплата труда:</h1>

@@ -562,7 +562,7 @@ src: url("css/fonts/Daneehand.otf");
 
 /* OTHER */
 .image {
-	background: url('images/balance1.png') no-repeat right bottom/50%;
+	background: url('images/balance1.png') no-repeat right bottom/25vw;
 }
 .time {
 	background: url('images/i-time.png') no-repeat top center;
