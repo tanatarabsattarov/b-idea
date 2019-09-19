@@ -10,7 +10,7 @@
 
 			<h4><span>изменения в законодательстве, типичные
 ошибки<br>и способы их решения</span></h4>
-			<p><span class="date">7-8</span> ноября 2019 года<br>
+			<p><span class="date">18-19</span> ноября 2019 года<br>
 			<span class="city">г. Актау</span></p>
 			
 			<div class="row">
