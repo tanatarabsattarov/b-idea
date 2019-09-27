@@ -9,7 +9,7 @@
 			<h1>Трудовые споры.<br>Согласительная комиссия</h1>
 			<br>
 			<h4><span>Причины их возникновения. Порядок разрешения трудового спора в согласительной комиссии.</span></h4>
-			<p><span class="date">15-16</span> августа 2018 года<br>город <b>Актобе</b><br></p>
+			<p><span class="date">14-15</span> ноября 2019 года<br>город <b>Актау</b><br></p>
 			
 			<div class="row">
 			<div class="col-md-3"></div>
@@ -158,27 +158,42 @@
 </blockquote>
 </div><!-- /.col-md-6 -->
 </div>
-<hr>	    
+</section>
+<hr>
+<section class="container cost center">
 <div class="row">
-<div class="col-md-3">
-<h3>Продолжительность</h3>
-</div>
-<div class="col-md-9 boxborder">
-<i class="fa fa-clock-o fa-3" aria-hidden="true"></i>
-2 дня
+<div class="col-md-6">
+<h4>Продолжительность</h4>
+<i class="fa fa-clock-o fa-5x" aria-hidden="true"></i>
+<h6><strong>2 дня</strong><br>с 10 до 18 часов </h6>
+</div><!-- /.col-md-6 -->
+<div class="col-md-6">
+<h4>Стоимость участия:</h4>
+<i class="fa fa-money fa-5x" aria-hidden="true"></i>
+<h6><strong>105 000 тг.</strong><br>(НДС не облагается)</h6>
 </div><!-- /.col-md-6 -->
 </div>
-<hr>
-<div class="row">
-<div class="col-md-3">
-<h3>Стоимость участия</h3>
-</div>
-<div class="col-md-9 boxborder">
-<i class="fa fa-money fa-3" aria-hidden="true"></i>
-<strong>83 000 тг.</strong>
-</div>
-</div>
 </section>
+<hr>
+	    <section class="container marketing cost center">
+		    <h4>Стоимость включает:</h4>
+		    <div class="row">
+          <div class="col-lg-4">
+            <i class="fa fa-graduation-cap fa-5x" aria-hidden="true"></i>
+            <h6>Обучение</h6>
+          </div><!-- /.col-lg-3 -->
+		  <div class="col-lg-4">
+            <i class="fa fa-coffee fa-5x" aria-hidden="true"></i>
+            <h6>Кофе-брейки</h6>
+          </div><!-- /.col-lg-3 -->
+          <div class="col-lg-4">
+            <i class="fa fa-check-circle fa-5x" aria-hidden="true"></i>
+            <h6>Все налоговые сборы</h6>
+          </div><!-- /.col-lg-3 -->
+		    </div>
+	    </section>
+
+<hr>
 <div class="container">
 <div class="row">
 	<div class="col-md-3"></div>
