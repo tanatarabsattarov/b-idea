@@ -617,7 +617,7 @@ src: url("css/fonts/Daneehand.otf");
 .boxborder {
 	border-left:1px solid #ededed;
 }
-.boxborder ol li::first-word {
+.boxborder ol li::first-line {
 	font-weight:bold;
 	text-transform: uppercase;
 }
