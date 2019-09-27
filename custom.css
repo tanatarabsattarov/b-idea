@@ -617,6 +617,10 @@ src: url("css/fonts/Daneehand.otf");
 .boxborder {
 	border-left:1px solid #ededed;
 }
+.boxborder ol li::first-word {
+	font-weight:bold;
+	text-transform: uppercase;
+}
 .nav-pills .nav-link {
 	display: block !important;
 }
