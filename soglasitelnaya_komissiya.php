@@ -4,7 +4,8 @@
 
     <main class="template">
     <div class="mainbanner" style="background-image:url('images/bgforbanner.jpg');">
-		<div style="background: url('images/spory3.png') no-repeat right center/cover;">
+		<!-- <div style="background: url('images/spory3.png') no-repeat right center/cover;"> -->
+		<div>
 			<div class="container">
 			<h1>Трудовые споры.<br>Согласительная комиссия</h1>
 			<br>
