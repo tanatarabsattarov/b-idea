@@ -13,23 +13,44 @@
 	
         <div class="carousel-inner">
 		<div class="carousel-item template active">
-		<div class="mainbanner" style="background:url('images/bgforbanner2.jpg') repeat center center/contain;;">
-	    <div style="background:url('images/gileva.jpg') no-repeat right bottom/contain;">
-		<div class="container">
-			
-			<h1 style="color: rgb(82, 13, 35); text-shadow: 2px 2px #8c8e90;text-transform: uppercase !important;">Вахтовый метод работы</h1>
+		<div class="mainbanner" style="background-image:url('images/bgforbanner.jpg');">
+		<!-- <div style="background: url('images/spory3.png') no-repeat right center/cover;"> -->
+		<div>
+			<div class="container">
+			<h1>Трудовые споры.<br>Согласительная комиссия</h1>
 			<br>
-			<h4><span style="color:rgba(255,255,255,.9);">Особенности регулирования трудовых отношений</span></h4>
-			<p><span class="date" style="color:rgb(82, 13, 35);">26-27</span> сентября 2019 года<br>
-			город <span class="city" style="color:rgb(82, 13, 35);"><b>Актау</b></span></p>
+			<h4><span>Причины их возникновения. Порядок разрешения трудового спора в согласительной комиссии.</span></h4>
+			<p><span class="date">14-15</span> ноября 2019 года<br>город <b>Актау</b><br></p>
 			
 			<div class="row">
-			<div class="col-md-6"><a href="/vahta_gileva.php" target="_blank" style="background-color: #511124;" class="register">Подробнее</a></div>
+			<div class="col-md-3"></div>
+			<div class="col-md-6"><a href="https://form.jotform.com/62335883866166" target="_blank" class="register">Принять участие</a></div>
+			<div class="col-md-3"></div>
 			</div>
     	</div>
-	    </div>
-	</div>
 		</div>
+    </div>
+		</div>
+		<div class="carousel-item">
+		<div class="mainbanner" style="background-image:url('images/bgforbanner.jpg')">
+		<div class="image">
+			<div class="container">
+			<h1>Семинар по оплате труда</h1>
+
+			<h4><span>изменения в законодательстве, типичные
+ошибки<br>и способы их решения</span></h4>
+			<p><span class="date">18-19</span> ноября 2019 года<br>
+			<span class="city">г. Актау</span></p>
+			
+			<div class="row">
+			<div class="col-md-3"></div>
+			<div class="col-md-6"><a href="https://form.jotform.com/62335883866166" target="_blank" class="register">Принять участие</a></div>
+			<div class="col-md-3"></div>
+			</div>
+    	</div>
+		</div>
+    </div>
+</div>
           <div class="carousel-item">
 			<div class="corporate corporatebanner">
 			  <div class="overlay" style="height:550px;">
