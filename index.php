@@ -24,7 +24,7 @@
 			
 			<div class="row">
 			<div class="col-md-3"></div>
-			<div class="col-md-6"><a href="https://form.jotform.com/62335883866166" target="_blank" class="register">Принять участие</a></div>
+			<div class="col-md-6"><a href="soglasitelnaya_komissiya.php" target="_blank" class="register">Принять участие</a></div>
 			<div class="col-md-3"></div>
 			</div>
     	</div>
@@ -44,7 +44,7 @@
 			
 			<div class="row">
 			<div class="col-md-3"></div>
-			<div class="col-md-6"><a href="https://form.jotform.com/62335883866166" target="_blank" class="register">Принять участие</a></div>
+			<div class="col-md-6"><a href="oplata_truda.php" target="_blank" class="register">Принять участие</a></div>
 			<div class="col-md-3"></div>
 			</div>
     	</div>
