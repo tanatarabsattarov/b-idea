@@ -12,7 +12,7 @@
 	
 	
         <div class="carousel-inner">
-		<div class="carousel-item template active">
+		<div class="carousel-item active">
 		<div class="mainbanner" style="background-image:url('images/bgforbanner.jpg');">
 		<!-- <div style="background: url('images/spory3.png') no-repeat right center/cover;"> -->
 		<div>
