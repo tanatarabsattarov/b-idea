@@ -17,7 +17,7 @@
 		<!-- <div style="background: url('images/spory3.png') no-repeat right center/cover;"> -->
 		<div>
 			<div class="container">
-			<h1>Трудовые споры.<br>Согласительная комиссия</h1>
+			<h1>Трудовые споры. Согласительная комиссия</h1>
 			<br>
 			<h4><span>Причины их возникновения. Порядок разрешения трудового спора в согласительной комиссии.</span></h4>
 			<p><span class="date">14-15</span> ноября 2019 года<br>город <b>Актау</b><br></p>
