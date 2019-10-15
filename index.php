@@ -18,7 +18,8 @@
 		<div class="mainbanner" style="background-image:url('images/bgforbanner.jpg');">
 		<div style="background: url('images/Passports.png') no-repeat right center/contain;">
 			<div class="container">
-			<h1>НОВЫЙ ПОРЯДОК ПРИВЛЕЧЕНИЯ<br>ИНОСТРАННОЙ РАБОЧЕЙ СИЛЫ В РК</h1>
+			<h1>Новый порядок привлечения<br>
+иностранной рабочей силы в РК</h1>
 			<br>
 			<p><span class="date">14</span> ноября 2019 года<br>город <b>Актау</b><br></p>
 			
