@@ -10,7 +10,7 @@
 			<h1>Трудовые споры.<br>Согласительная комиссия</h1>
 			<br>
 			<h4><span>Причины их возникновения. Порядок разрешения трудового спора в согласительной комиссии.</span></h4>
-			<p><span class="date">14-15</span> ноября 2019 года<br>город <b>Актау</b><br></p>
+			<p><span class="date">15</span> ноября 2019 года<br>город <b>Актау</b><br></p>
 			
 			<div class="row">
 			<div class="col-md-3"></div>
@@ -177,12 +177,12 @@
 <div class="col-md-6">
 <h4>Продолжительность</h4>
 <i class="fa fa-clock-o fa-5x" aria-hidden="true"></i>
-<h6><strong>2 дня</strong><br>с 10 до 18 часов </h6>
+<h6><strong>1 день</strong><br>с 10 до 18 часов </h6>
 </div><!-- /.col-md-6 -->
 <div class="col-md-6">
 <h4>Стоимость участия:</h4>
 <i class="fa fa-money fa-5x" aria-hidden="true"></i>
-<h6><strong>114 000 тг.</strong><br>(НДС не облагается)</h6>
+<h6><strong>78 000 тг.</strong><br>(НДС не облагается)</h6>
 </div><!-- /.col-md-6 -->
 </div>
 </section>
