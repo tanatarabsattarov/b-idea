@@ -22,11 +22,11 @@
 			<h1 style="color:#F5F801;">ТРУДОВОЙ КОДЕКС РК</h1>
 			
 			<h4><span style="color:#fff;">с учетом последних изменений</span></h4>
-			<p style="color:#fff;"><span style="background:#6D00AD;color:#fff;padding:0 10px;">24-25 сентября</span> 2020 года<br><br>
+			<p style="color:#fff;"><span style="background:#6D00AD;color:#fff;padding:0 10px;">14-15 мая</span> 2020 года<br><br>
 			город <span style="background:#6D00AD;color:#fff;padding:0 10px;">Актау</span></p>
 			
 			<div class="row">
-			<div class="col-md-6"><a href="https://form.jotform.com/62335883866166" target="_blank" style="background-color: #6D00AD;" class="register">Принять участие</a></div>
+			<div class="col-md-6"><a href="/trudovoi_kodeks_gileva.php" target="_blank" style="background-color: #6D00AD;" class="register">Принять участие</a></div>
 			</div>
     	</div>
 	    </div>
@@ -40,11 +40,11 @@
 			<h1 style="color:#F5F801;">ТРУДОВОЙ КОДЕКС РК</h1>
 			
 			<h4><span style="color:#fff;">с учетом последних изменений</span></h4>
-			<p style="color:#fff;"><span style="background:#6D00AD;color:#fff;padding:0 10px;">14-15 мая</span> 2020 года<br><br>
+			<p style="color:#fff;"><span style="background:#6D00AD;color:#fff;padding:0 10px;">24-25 сентября</span> 2020 года<br><br>
 			город <span style="background:#6D00AD;color:#fff;padding:0 10px;">Актау</span></p>
 			
 			<div class="row">
-			<div class="col-md-6"><a href="https://form.jotform.com/62335883866166" target="_blank" style="background-color: #6D00AD;" class="register">Принять участие</a></div>
+			<div class="col-md-6"><a href="/trudovoi_kodeks_gileva2.php" target="_blank" style="background-color: #6D00AD;" class="register">Принять участие</a></div>
 			</div>
     	</div>
 	    </div>
