@@ -10,8 +10,8 @@
 			<h1 style="color:#F5F801;">ТРУДОВОЙ КОДЕКС РК</h1>
 			
 			<h4><span style="color:#fff;">с учетом последних изменений</span></h4>
-			<p style="color:#fff;"><span style="background:#6D00AD;color:#fff;padding:0 10px;">25-26 декабря</span> 2018 года<br><br>
-			город <span style="background:#6D00AD;color:#fff;padding:0 10px;">Астана</span></p>
+			<p style="color:#fff;"><span style="background:#6D00AD;color:#fff;padding:0 10px;">24-25 сентября</span> 2020 года<br><br>
+			город <span style="background:#6D00AD;color:#fff;padding:0 10px;">Актау</span></p>
 			
 			<div class="row">
 			<div class="col-md-6"><a href="https://form.jotform.com/62335883866166" target="_blank" style="background-color: #6D00AD;" class="register">Принять участие</a></div>
@@ -159,7 +159,7 @@
 <div class="col-md-6">
 <h4>Стоимость участия:</h4>
 <i class="fa fa-money fa-5x" aria-hidden="true"></i>
-<h6><strong>Позвоните нам что бы узнать</strong></h6>
+<h6><strong>114 000 тг.</strong><br>(НДС не облагается)</h6>
 </div><!-- /.col-md-6 -->
 </div>
 </section>

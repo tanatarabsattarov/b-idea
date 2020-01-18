@@ -15,23 +15,41 @@
 	
         <div class="carousel-inner">
 		<div class="carousel-item active">
-		<div class="mainbanner" style="background-image:url('images/bgforbanner.jpg');">
-		<div style="background: url('images/Passports.png') no-repeat right center/contain;">
-			<div class="container">
-			<h1>Новый порядок привлечения<br>
-иностранной рабочей силы в РК</h1>
-			<br>
-			<p><span class="date">14</span> ноября 2019 года<br>город <b>Актау</b><br></p>
+		<div class="mainbanner" style="background:url('images/bgforbanner3.jpg') repeat center center/contain;;">
+	    <div style="background:url('images/gileva_tk.jpg') no-repeat right bottom/contain;">
+		<div class="container">
+			
+			<h1 style="color:#F5F801;">ТРУДОВОЙ КОДЕКС РК</h1>
+			
+			<h4><span style="color:#fff;">с учетом последних изменений</span></h4>
+			<p style="color:#fff;"><span style="background:#6D00AD;color:#fff;padding:0 10px;">24-25 сентября</span> 2020 года<br><br>
+			город <span style="background:#6D00AD;color:#fff;padding:0 10px;">Актау</span></p>
 			
 			<div class="row">
-			<div class="col-md-3"></div>
-			<div class="col-md-6"><a href="irs.php" target="_blank" class="register">Принять участие</a></div>
-			<div class="col-md-3"></div>
+			<div class="col-md-6"><a href="https://form.jotform.com/62335883866166" target="_blank" style="background-color: #6D00AD;" class="register">Принять участие</a></div>
 			</div>
     	</div>
-		</div>
-	</div>
+	    </div>
+    </div>
 </div>
+	<div class="carousel-item">
+	<div class="mainbanner" style="background:url('images/bgforbanner3.jpg') repeat center center/contain;;">
+	    <div style="background:url('images/gileva_tk.jpg') no-repeat right bottom/contain;">
+		<div class="container">
+			
+			<h1 style="color:#F5F801;">ТРУДОВОЙ КОДЕКС РК</h1>
+			
+			<h4><span style="color:#fff;">с учетом последних изменений</span></h4>
+			<p style="color:#fff;"><span style="background:#6D00AD;color:#fff;padding:0 10px;">14-15 мая</span> 2020 года<br><br>
+			город <span style="background:#6D00AD;color:#fff;padding:0 10px;">Актау</span></p>
+			
+			<div class="row">
+			<div class="col-md-6"><a href="https://form.jotform.com/62335883866166" target="_blank" style="background-color: #6D00AD;" class="register">Принять участие</a></div>
+			</div>
+    	</div>
+	    </div>
+    </div>
+	</div>
 		<div class="carousel-item">
 		<div class="mainbanner" style="background-image:url('images/bgforbanner.jpg');">
 		<!-- <div style="background: url('images/spory3.png') no-repeat right center/cover;"> -->

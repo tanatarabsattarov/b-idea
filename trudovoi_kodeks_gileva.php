@@ -10,7 +10,7 @@
 			<h1 style="color:#F5F801;">ТРУДОВОЙ КОДЕКС РК</h1>
 			
 			<h4><span style="color:#fff;">с учетом последних изменений</span></h4>
-			<p style="color:#fff;"><span style="background:#6D00AD;color:#fff;padding:0 10px;">20-21 декабря</span> 2018 года<br><br>
+			<p style="color:#fff;"><span style="background:#6D00AD;color:#fff;padding:0 10px;">14-15 мая</span> 2020 года<br><br>
 			город <span style="background:#6D00AD;color:#fff;padding:0 10px;">Актау</span></p>
 			
 			<div class="row">
