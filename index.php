@@ -40,7 +40,7 @@
 			<h1>Трудовые споры. Согласительная комиссия</h1>
 			<br>
 			<h4><span>Причины их возникновения. Порядок разрешения трудового спора в согласительной комиссии.</span></h4>
-			<p><span class="date">14-15</span> ноября 2019 года<br>город <b>Актау</b><br></p>
+			<p><span class="date">22-23</span> сентября 2020 года<br>город <b>Актау</b><br></p>
 			
 			<div class="row">
 			<div class="col-md-3"></div>
@@ -51,26 +51,7 @@
 		</div>
     </div>
 		</div>
-		<div class="carousel-item">
-		<div class="mainbanner" style="background-image:url('images/bgforbanner.jpg')">
-		<div class="image">
-			<div class="container">
-			<h1>Семинар по оплате труда</h1>
-
-			<h4><span>изменения в законодательстве, типичные
-ошибки<br>и способы их решения</span></h4>
-			<p><span class="date">18-19</span> ноября 2019 года<br>
-			<span class="city">г. Актау</span></p>
-			
-			<div class="row">
-			<div class="col-md-3"></div>
-			<div class="col-md-6"><a href="oplata_truda.php" target="_blank" class="register">Принять участие</a></div>
-			<div class="col-md-3"></div>
-			</div>
-    	</div>
-		</div>
-    </div>
-</div>
+		
           <div class="carousel-item">
 			<div class="corporate corporatebanner">
 			  <div class="overlay" style="height:550px;">
