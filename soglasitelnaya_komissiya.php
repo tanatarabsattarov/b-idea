@@ -173,7 +173,7 @@
 <div class="col-md-6">
 <h4>Стоимость участия:</h4>
 <i class="fa fa-money fa-5x" aria-hidden="true"></i>
-<h6><strong>78 000 тг.</strong><br>(НДС не облагается)</h6>
+<h6><strong>135 000 тг.</strong><br>(НДС не облагается)</h6>
 </div><!-- /.col-md-6 -->
 </div>
 </section>
