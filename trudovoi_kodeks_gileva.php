@@ -9,9 +9,9 @@
 			
 			<h1 style="color:#F5F801;">ТРУДОВОЙ КОДЕКС РК</h1>
 			
-			<h4><span style="color:#fff;">с учетом последних изменений</span></h4>
+			<h4><span style="color:#fff;">с учетом положений проекта последних изменений и дополнений</span></h4>
 			<p style="color:#fff;"><span style="background:#6D00AD;color:#fff;padding:0 10px;">14-15 мая</span> 2020 года<br><br>
-			город <span style="background:#6D00AD;color:#fff;padding:0 10px;">Актау</span></p>
+			<span style="background:#6D00AD;color:#fff;padding:0 10px;">онлайн</span></p>
 			
 			<div class="row">
 			<div class="col-md-6"><a href="https://form.jotform.com/62335883866166" target="_blank" style="background-color: #6D00AD;" class="register">Принять участие</a></div>
@@ -154,12 +154,12 @@
 <div class="col-md-6">
 <h4>Продолжительность</h4>
 <i class="fa fa-clock-o fa-5x" aria-hidden="true"></i>
-<h6><strong>2 дня</strong><br>с 10 до 18 часов </h6>
+<h6><strong>2 дня</strong><br>с 10 до 16 часов </h6>
 </div><!-- /.col-md-6 -->
 <div class="col-md-6">
 <h4>Стоимость участия:</h4>
 <i class="fa fa-money fa-5x" aria-hidden="true"></i>
-<h6><strong>135 000 тг.</strong><br>(НДС не облагается)</h6>
+<h6><strong>85 000 тг.</strong><br>(НДС не облагается)</h6>
 </div><!-- /.col-md-6 -->
 </div>
 </section>
@@ -169,15 +169,15 @@
 		    <div class="row">
           <div class="col-lg-3">
             <i class="fa fa-graduation-cap fa-5x" aria-hidden="true"></i>
-            <h6>Обучение</h6>
+            <h6>Обучение</h6><p>(в режиме закрытой группы)</p>
           </div><!-- /.col-lg-3 -->
 		  <div class="col-lg-3">
             <i class="fa fa-coffee fa-5x" aria-hidden="true"></i>
-            <h6>Кофе-брейки</h6>
+            <h6>Книга Трудового Кодекса РК</h6><p>(в последней редакции)</p>
           </div><!-- /.col-lg-3 -->
           <div class="col-lg-3">
             <i class="fa fa-cutlery fa-5x" aria-hidden="true"></i>
-            <h6>Обеды</h6>
+            <h6>Учебные материалы по теме</h6>
           </div><!-- /.col-lg-3 -->
           <div class="col-lg-3">
             <i class="fa fa-check-circle fa-5x" aria-hidden="true"></i>
