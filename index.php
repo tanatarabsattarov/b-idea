@@ -23,7 +23,7 @@
 			
 			<h4><span style="color:#fff;">с учетом последних изменений</span></h4>
 			<p style="color:#fff;"><span style="background:#6D00AD;color:#fff;padding:0 10px;">14-15 мая</span> 2020 года<br><br>
-			город <span style="background:#6D00AD;color:#fff;padding:0 10px;">Актау</span></p>
+			<span style="background:#6D00AD;color:#fff;padding:0 10px;">онлайн</span></p>
 			
 			<div class="row">
 			<div class="col-md-6"><a href="/trudovoi_kodeks_gileva.php" target="_blank" style="background-color: #6D00AD;" class="register">Принять участие</a></div>
