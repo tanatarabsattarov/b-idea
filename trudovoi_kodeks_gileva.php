@@ -2,8 +2,8 @@
 	$pageTitle = "Трудовой Кодекс";
 	include("includes/header.html"); ?>
 <style>
-.cost {
-	line-height:0.5rem;
+.cost h6{
+	line-height:auto;
 }
 </style>
     <main class="template">
