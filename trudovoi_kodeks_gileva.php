@@ -176,11 +176,11 @@
             <h6>Обучение</h6><p>(в режиме закрытой группы)</p>
           </div><!-- /.col-lg-3 -->
 		  <div class="col-lg-3">
-            <i class="fa fa-coffee fa-5x" aria-hidden="true"></i>
+            <i class="fa fa-book fa-5x" aria-hidden="true"></i>
             <h6>Книга Трудового Кодекса РК</h6><p>(в последней редакции)</p>
           </div><!-- /.col-lg-3 -->
           <div class="col-lg-3">
-            <i class="fa fa-cutlery fa-5x" aria-hidden="true"></i>
+            <i class="fa fa-clipboard fa-5x" aria-hidden="true"></i>
             <h6>Учебные материалы по теме</h6>
           </div><!-- /.col-lg-3 -->
           <div class="col-lg-3">
