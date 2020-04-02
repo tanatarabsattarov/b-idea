@@ -1,7 +1,11 @@
 <?php 
 	$pageTitle = "Трудовой Кодекс";
 	include("includes/header.html"); ?>
-
+<style>
+.cost {
+	line-height:0.5rem;
+}
+</style>
     <main class="template">
     <div class="mainbanner" style="background:url('images/bgforbanner3.jpg') repeat center center/contain;;">
 	    <div style="background:url('images/gileva_tk.jpg') no-repeat right bottom/contain;">
