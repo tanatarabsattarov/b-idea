@@ -582,7 +582,7 @@ src: url("css/fonts/Daneehand.otf");
 	font-size: 26px;
 	font-family: 'Proxima Nova Regular', Arial, sans-serif;
 	margin-top: 20px;
-	line-height: 45px;
+	/* line-height: 45px; */
 }
 .cost h4 {
     text-transform: uppercase;
