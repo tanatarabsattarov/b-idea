@@ -13,8 +13,8 @@
 			
 			<h1 style="color:#F5F801;">ТРУДОВОЙ КОДЕКС РК</h1>
 			
-			<h4><span style="color:#fff;">с учетом положений проекта последних изменений и дополнений</span></h4>
-			<p style="color:#fff;"><span style="background:#6D00AD;color:#fff;padding:0 10px;">14-15 мая</span> 2020 года<br><br>
+			<h4><span style="color:#fff;">с учетом положений проекта последних изменений и дополнений в мае 2020 года</span></h4>
+			<p style="color:#fff;"><span style="background:#6D00AD;color:#fff;padding:0 10px;">13-15 мая</span> 2020 года<br><br>
 			<span style="background:#6D00AD;color:#fff;padding:0 10px;">онлайн</span></p>
 			
 			<div class="row">
@@ -158,12 +158,12 @@
 <div class="col-md-6">
 <h4>Продолжительность</h4>
 <i class="fa fa-clock-o fa-5x" aria-hidden="true"></i>
-<h6><strong>2 дня</strong><br>с 10 до 16 часов </h6>
+<h6><strong>3 дня</strong></h6>
 </div><!-- /.col-md-6 -->
 <div class="col-md-6">
 <h4>Стоимость участия:</h4>
 <i class="fa fa-money fa-5x" aria-hidden="true"></i>
-<h6><strong>85 000 тг.</strong><br>(НДС не облагается)</h6>
+<h6><strong>100 000 тг.</strong><br>(НДС не облагается)</h6>
 </div><!-- /.col-md-6 -->
 </div>
 </section>
@@ -177,7 +177,7 @@
           </div><!-- /.col-lg-3 -->
 		  <div class="col-lg-3">
             <i class="fa fa-book fa-5x" aria-hidden="true"></i>
-            <h6>Книга Трудового Кодекса РК</h6><p>(в последней редакции)</p>
+            <h6>Трудовой Кодекса РК</h6><p>(в последней редакции)</p>
           </div><!-- /.col-lg-3 -->
           <div class="col-lg-3">
             <i class="fa fa-clipboard fa-5x" aria-hidden="true"></i>
