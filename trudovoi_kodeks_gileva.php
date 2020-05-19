@@ -14,7 +14,7 @@
 			<h1 style="color:#F5F801;">ТРУДОВОЙ КОДЕКС РК</h1>
 			
 			<h4><span style="color:#fff;">с учетом положений проекта последних изменений и дополнений в мае 2020 года</span></h4>
-			<p style="color:#fff;"><span style="background:#6D00AD;color:#fff;padding:0 10px;">13-15 мая</span> 2020 года<br><br>
+			<p style="color:#fff;"><span style="background:#6D00AD;color:#fff;padding:0 10px;">15-17 июня</span> 2020 года<br><br>
 			<span style="background:#6D00AD;color:#fff;padding:0 10px;">онлайн</span></p>
 			
 			<div class="row">
