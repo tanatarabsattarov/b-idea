@@ -17,18 +17,12 @@
 	
         <div class="carousel-inner">
 		<div class="carousel-item active">
-		<div class="mainbanner h-100" style="background-image:url('images/tk_banner.png')">
-        <!-- <div style="background: url('images/spory3.png') no-repeat right center/cover;"> -->
-			<div class="container h-100 align-text-bottom align-self-end">
-				<div class="row">
+		<div class="mainbanner h-100 my-auto" style="background-image:url('images/tk_banner.png')">
 					<a href="http://b-idea.kz/trudovoi_kodeks_k.php" target="_blank" class="register">Подробнее</a>
-				</div>
-			</div>
 		</div>
 		</div>
 		<div class="carousel-item">
 		<div class="mainbanner" style="background-image:url('images/bgforbanner.jpg');">
-        <!-- <div style="background: url('images/spory3.png') no-repeat right center/cover;"> -->
         <div>
             <div class="container">
             <h1>Трудовые споры. Согласительная комиссия</h1>
