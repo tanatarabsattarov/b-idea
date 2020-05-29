@@ -21,7 +21,7 @@
         <!-- <div style="background: url('images/spory3.png') no-repeat right center/cover;"> -->
 <a href="http://b-idea.kz/trudovoi_kodeks_k.php" target="_blank" class="register">Подробнее</a>
 		</div>
-
+</div>
 		<div class="carousel-item">
 		<div class="mainbanner" style="background-image:url('images/bgforbanner.jpg');">
         <!-- <div style="background: url('images/spory3.png') no-repeat right center/cover;"> -->
