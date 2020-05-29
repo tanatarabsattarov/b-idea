@@ -17,16 +17,14 @@
 	
         <div class="carousel-inner">
 		<div class="carousel-item active">
-		<div class="mainbanner" style="background-image:url('images/tk.banner.png');">
+		<div class="mainbanner" style="background-image:url('images/tk.banner.png');height:100%">
         <!-- <div style="background: url('images/spory3.png') no-repeat right center/cover;"> -->
-        <div>
             <div class="container">
             <div class="row">
             <div class="col-md-3"></div>
             <div class="col-md-6"><a href="http://b-idea.kz/trudovoi_kodeks_k.php" target="_blank" class="register">Подробнее</a></div>
             <div class="col-md-3"></div>
             </div>
-        </div>
         </div>
     </div>
 		</div>
