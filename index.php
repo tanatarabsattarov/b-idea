@@ -17,7 +17,7 @@
 	
         <div class="carousel-inner">
 		<div class="carousel-item active">
-		<div class="mainbanner h-100" style="background-image:url('images/tk.banner.png')">
+		<div class="mainbanner h-100" style="background-image:url('images/tk_banner.png')">
         <!-- <div style="background: url('images/spory3.png') no-repeat right center/cover;"> -->
             <div class="container">
             <div class="row">
