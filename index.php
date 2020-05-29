@@ -19,7 +19,7 @@
 		<div class="carousel-item active">
 		<div class="mainbanner h-100" style="background-image:url('images/tk_banner.png')">
 			<div class="d-flex h-100 align-items-end">
-					<a href="http://b-idea.kz/trudovoi_kodeks_k.php" target="_blank" class="register px-4 w-33">Подробнее</a>
+					<a href="http://b-idea.kz/trudovoi_kodeks_k.php" target="_blank" class="register px-4 w-50">Подробнее</a>
 			</div>
 		</div>
 		</div>
