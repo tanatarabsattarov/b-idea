@@ -17,12 +17,12 @@
 	
         <div class="carousel-inner">
 		<div class="carousel-item active">
-		<div class="flex mainbanner h-100 align-bottom justify-content-end" style="background-image:url('images/tk_banner.png')">
+		<div class="flex mainbanner" style="background-image:url('images/tk_banner.png')">
         <!-- <div style="background: url('images/spory3.png') no-repeat right center/cover;"> -->
             <div class="container">
             <div class="row">
             <div class="col-md-3"></div>
-            <div class="col-md-6"><a href="http://b-idea.kz/trudovoi_kodeks_k.php" target="_blank" class="register">Подробнее</a></div>
+            <div class="col-md-6 h-100 align-bottom justify-content-end"><a href="http://b-idea.kz/trudovoi_kodeks_k.php" target="_blank" class="register">Подробнее</a></div>
             <div class="col-md-3"></div>
             </div>
         </div>
