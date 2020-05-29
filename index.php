@@ -21,8 +21,8 @@
         <!-- <div style="background: url('images/spory3.png') no-repeat right center/cover;"> -->
             <div class="container h-100">
             <div class="row h-100">
-            <div class="col-md-3 h-100"></div>
-            <div class="col-md-6"><a href="http://b-idea.kz/trudovoi_kodeks_k.php" target="_blank" class="register">Подробнее</a></div>
+            <div class="col-md-3"></div>
+            <div class="col-md-6 align-bottom align-content-end"><a href="http://b-idea.kz/trudovoi_kodeks_k.php" target="_blank" class="register">Подробнее</a></div>
             <div class="col-md-3"></div>
             </div>
         </div>
