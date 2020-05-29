@@ -18,7 +18,7 @@
         <div class="carousel-inner">
 		<div class="carousel-item active">
 		<div class="mainbanner h-100 justify-content-center" style="background-image:url('images/tk_banner.png')">
-			<div style="block d-flex align-self-center">
+			<div style="block d-flex align-items-end">
 					<a href="http://b-idea.kz/trudovoi_kodeks_k.php" target="_blank" class="register" style="width:auto;">Подробнее</a>
 			</div>
 		</div>
