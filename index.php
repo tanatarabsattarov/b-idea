@@ -19,8 +19,8 @@
 		<div class="carousel-item active">
 		<div class="mainbanner h-100" style="background-image:url('images/tk_banner.png')">
         <!-- <div style="background: url('images/spory3.png') no-repeat right center/cover;"> -->
-			<div class="container">
-				<div class="row h-100 align-text-bottom align-self-end">
+			<div class="container h-100 align-text-bottom align-self-end">
+				<div class="row">
 					<a href="http://b-idea.kz/trudovoi_kodeks_k.php" target="_blank" class="register">Подробнее</a>
 				</div>
 			</div>
