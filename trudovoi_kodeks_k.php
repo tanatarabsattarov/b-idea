@@ -3,22 +3,11 @@
     include("includes/header.html"); ?>
 
     <main class="template">
-    <div class="mainbanner" style="background-image:url('images/bgforbanner.jpg');">
-        <!-- <div style="background: url('images/spory3.png') no-repeat right center/cover;"> -->
-        <div>
-            <div class="container">
-            <h1>ТРУДОВОЙ КОДЕКС РЕСПУБЛИКИ КАЗАХСТАН</h1>
-            <br>
-            <h4><span>ДЕТАЛЬНЫЙ ОБЗОР И АНАЛИЗ ИЗМЕНЕНИЙ ОТ 04 МАЯ 2020 ГОДА</span></h4>
-            <p><span class="date">09</span> июня 2020 года<br><b>онлайн</b><br></p>
-            
-            <div class="row">
-            <div class="col-md-3"></div>
-            <div class="col-md-6"><a href="https://form.jotform.com/62335883866166" target="_blank" class="register">Принять участие</a></div>
-            <div class="col-md-3"></div>
-            </div>
-        </div>
-        </div>
+    <div class="mainbanner h-100" style="background-image:url('images/tk_banner.png')">
+			<div class="d-flex h-100 align-items-end">
+					<a href="https://form.jotform.com/62335883866166" target="_blank" class="register px-4 w-50">Принять участие</a>
+			</div>
+		</div>
     </div>
     <div class="container content">
         <div class="row">
