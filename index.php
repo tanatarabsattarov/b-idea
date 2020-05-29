@@ -17,7 +17,7 @@
 	
         <div class="carousel-inner">
 		<div class="carousel-item active">
-		<div class="flex mainbanner h-100 align-baseline justify-right" style="background-image:url('images/tk_banner.png')">
+		<div class="flex mainbanner h-100 align-bottom justify-content-end" style="background-image:url('images/tk_banner.png')">
         <!-- <div style="background: url('images/spory3.png') no-repeat right center/cover;"> -->
             <div class="container">
             <div class="row">
