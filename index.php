@@ -20,7 +20,7 @@
 		<div class="mainbanner h-100" style="background-image:url('images/tk_banner.png')">
 			<div class="container h-100">
 			<div class="row align-items-end">
-					<a href="http://b-idea.kz/trudovoi_kodeks_k.php" target="_blank" class="register" style="width:auto;">Подробнее</a>
+					<a href="http://b-idea.kz/trudovoi_kodeks_k.php" target="_blank" class="register">Подробнее</a>
 			</div>
 			</div>
 		</div>
