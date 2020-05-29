@@ -17,8 +17,10 @@
 	
         <div class="carousel-inner">
 		<div class="carousel-item active">
-		<div class="mainbanner h-100 my-auto" style="background-image:url('images/tk_banner.png')">
+		<div class="mainbanner h-100 d-flex align-items-bottom" style="background-image:url('images/tk_banner.png')">
+			<div style="block">
 					<a href="http://b-idea.kz/trudovoi_kodeks_k.php" target="_blank" class="register" style="width:auto;">Подробнее</a>
+			</div>
 		</div>
 		</div>
 		<div class="carousel-item">
