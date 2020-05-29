@@ -10,11 +10,48 @@
 		  <li data-target="#myCarousel" data-slide-to="3"></li>
 		  <li data-target="#myCarousel" data-slide-to="4"></li>
 		  <li data-target="#myCarousel" data-slide-to="5"></li>
+		  <li data-target="#myCarousel" data-slide-to="6"></li>
+		  <li data-target="#myCarousel" data-slide-to="7"></li>
    	        </ol>
 	
 	
         <div class="carousel-inner">
 		<div class="carousel-item active">
+		<div class="mainbanner" style="background-image:url('images/tk.banner.png');">
+        <!-- <div style="background: url('images/spory3.png') no-repeat right center/cover;"> -->
+        <div>
+            <div class="container">
+            <div class="row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6"><a href="http://b-idea.kz/trudovoi_kodeks_k.php" target="_blank" class="register">Подробнее</a></div>
+            <div class="col-md-3"></div>
+            </div>
+        </div>
+        </div>
+    </div>
+		</div>
+
+		<div class="carousel-item">
+		<div class="mainbanner" style="background-image:url('images/bgforbanner.jpg');">
+        <!-- <div style="background: url('images/spory3.png') no-repeat right center/cover;"> -->
+        <div>
+            <div class="container">
+            <h1>Трудовые споры. Согласительная комиссия</h1>
+            <br>
+            <h4><span>(с учетом изменений в ТК РК от 04.05.2020 г.)</span></h4>
+            <p><span class="date">11-12</span> июня 2020 года<br><b>онлайн</b><br></p>
+            
+            <div class="row">
+            <div class="col-md-3"></div>
+            <div class="col-md-6"><a href="http://b-idea.kz/soglasitelnaya_komissiya_3.php" target="_blank" class="register">Подробнее</a></div>
+            <div class="col-md-3"></div>
+            </div>
+        </div>
+        </div>
+    </div>
+		</div>
+
+		<div class="carousel-item">
 		<div class="mainbanner" style="background:url('images/bgforbanner3.jpg') repeat center center/contain;;">
 	    <div style="background:url('images/gileva_tk.jpg') no-repeat right bottom/contain;">
 		<div class="container">
@@ -26,7 +63,7 @@
 			<span style="background:#6D00AD;color:#fff;padding:0 10px;">онлайн</span></p>
 			
 			<div class="row">
-			<div class="col-md-6"><a href="/trudovoi_kodeks_gileva.php" target="_blank" style="background-color: #6D00AD;" class="register">Принять участие</a></div>
+			<div class="col-md-6"><a href="/trudovoi_kodeks_gileva.php" target="_blank" style="background-color: #6D00AD;" class="register">Подробнее</a></div>
 			</div>
     	</div>
 	    </div>
@@ -44,7 +81,7 @@
 			город <span style="background:#6D00AD;color:#fff;padding:0 10px;">Актау</span></p>
 			
 			<div class="row">
-			<div class="col-md-6"><a href="/trudovoi_kodeks_gileva2.php" target="_blank" style="background-color: #6D00AD;" class="register">Принять участие</a></div>
+			<div class="col-md-6"><a href="/trudovoi_kodeks_gileva2.php" target="_blank" style="background-color: #6D00AD;" class="register">Подробнее</a></div>
 			</div>
     	</div>
 	    </div>
@@ -62,7 +99,7 @@
 			
 			<div class="row">
 			<div class="col-md-3"></div>
-			<div class="col-md-6"><a href="soglasitelnaya_komissiya.php" target="_blank" class="register">Принять участие</a></div>
+			<div class="col-md-6"><a href="soglasitelnaya_komissiya.php" target="_blank" class="register">Подробнее</a></div>
 			<div class="col-md-3"></div>
 			</div>
     	</div>
