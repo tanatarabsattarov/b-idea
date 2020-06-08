@@ -12,6 +12,7 @@
 		  <li data-target="#myCarousel" data-slide-to="5"></li>
 		  <li data-target="#myCarousel" data-slide-to="6"></li>
 		  <li data-target="#myCarousel" data-slide-to="7"></li>
+		  <li data-target="#myCarousel" data-slide-to="8"></li>
    	        </ol>
 	
 	
@@ -27,6 +28,13 @@
 		<div class="mainbanner h-100" style="background-image:url('images/trudovye_spory.png')">
 			<div class="d-flex h-100 align-items-end">
 					<a href="http://b-idea.kz/soglasitelnaya_komissiya_3.php" target="_blank" class="register px-4 w-50">Подробнее</a>
+			</div>
+		</div>
+		</div>
+		<div class="carousel-item">
+		<div class="mainbanner h-100" style="background-image:url('images/trudovye_spory1.png')">
+			<div class="d-flex h-100 align-items-end">
+					<a href="http://b-idea.kz/soglasitelnaya_komissiya_4.php" target="_blank" class="register px-4 w-50">Подробнее</a>
 			</div>
 		</div>
 		</div>
