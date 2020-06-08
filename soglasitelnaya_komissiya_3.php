@@ -3,7 +3,7 @@
     include("includes/header.html"); ?>
 
     <main class="template">
-    <div class="mainbanner" style="background-image:url('images/trudovye_spory.png'); height:450px;">
+    <div class="mainbanner" style="background-image:url('images/trudovye_spory.jpg'); height:450px;">
 			<div class="d-flex h-100 align-items-end">
 					<a href="https://form.jotform.com/62335883866166" target="_blank" class="register px-4 w-50">Принять участие</a>
 			</div>
