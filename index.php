@@ -24,22 +24,11 @@
 		</div>
 		</div>
 		<div class="carousel-item">
-		<div class="mainbanner" style="background-image:url('images/bgforbanner.jpg');">
-        <div>
-            <div class="container">
-            <h1>Трудовые споры. Согласительная комиссия</h1>
-            <br>
-            <h4><span>(с учетом изменений в ТК РК от 04.05.2020 г.)</span></h4>
-            <p><span class="date">11-12</span> июня 2020 года<br><b>онлайн</b><br></p>
-            
-            <div class="row">
-            <div class="col-md-3"></div>
-            <div class="col-md-6"><a href="http://b-idea.kz/soglasitelnaya_komissiya_3.php" target="_blank" class="register">Подробнее</a></div>
-            <div class="col-md-3"></div>
-            </div>
-        </div>
-        </div>
-    </div>
+		<div class="mainbanner h-100" style="background-image:url('images/trudovye_spory.png')">
+			<div class="d-flex h-100 align-items-end">
+					<a href="http://b-idea.kz/soglasitelnaya_komissiya_3.php" target="_blank" class="register px-4 w-50">Подробнее</a>
+			</div>
+		</div>
 		</div>
 
 		<div class="carousel-item">
