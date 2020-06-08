@@ -5,7 +5,7 @@
     <main class="template">
     <div class="mainbanner" style="background-image:url('images/trudovye_spory.png'); height:400px;">
 			<div class="d-flex h-100 align-items-end">
-					<a href="https://form.jotform.com/62335883866166" target="_blank" class="register px-4 w-50">Подробнее</a>
+					<a href="https://form.jotform.com/62335883866166" target="_blank" class="register px-4 w-50">Принять участие</a>
 			</div>
 		</div>
     <div class="container content">
@@ -196,7 +196,7 @@
 <div class="col-md-6">
 <h4>Стоимость участия:</h4>
 <i class="fa fa-money fa-5x" aria-hidden="true"></i>
-<h6><strong>65 000 тг.</strong><br>(НДС не облагается)</h6>
+<h6><strong>69 000 тг.</strong><br>(НДС не облагается)</h6>
 </div><!-- /.col-md-6 -->
 </div>
 </section>
