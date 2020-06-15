@@ -3,7 +3,7 @@
     include("includes/header.html"); ?>
 
     <main class="template">
-    <div class="mainbanner" style="background-image:url('images/trudovye_spory1.jpg'); height:450px;">
+    <div class="mainbanner" style="background-image:url('images/seminar23.jpg'); height:450px;">
 			<div class="d-flex h-100 align-items-end">
 					<a href="https://form.jotform.com/62335883866166" target="_blank" class="register px-4 w-50">Принять участие</a>
 			</div>
@@ -191,12 +191,12 @@
 <div class="col-md-6">
 <h4>Продолжительность</h4>
 <i class="fa fa-clock-o fa-5x" aria-hidden="true"></i>
-<h6><strong>2 дня</strong><br>с 10:00 до 12:00 - занятия<br>с 12:00 до 13:00 - обед<br>с 13:00 до 15:30 занятия (15 минут перерыв на кофе-брейк)</h6>
+<h6><strong>1 день</strong><br>с 10:00 до 12:00 - занятия<br>с 12:00 до 13:00 - обед<br>с 13:00 до 15:30 занятия (15 минут перерыв на кофе-брейк)</h6>
 </div><!-- /.col-md-6 -->
 <div class="col-md-6">
 <h4>Стоимость участия:</h4>
 <i class="fa fa-money fa-5x" aria-hidden="true"></i>
-<h6><strong>69 000 тг.</strong><br>(НДС не облагается)</h6>
+<h6><strong>40 000 тг.</strong><br>(НДС не облагается)</h6>
 </div><!-- /.col-md-6 -->
 </div>
 </section>
