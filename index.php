@@ -17,13 +17,19 @@
 	
         <div class="carousel-inner">
 		<div class="carousel-item active">
-		<div class="mainbanner h-100" style="background-image:url('images/seminar22.jpg')">
+		<div class="mainbanner h-100" style="background-image:url('images/seminar19-20.jpg')">
 			<div class="d-flex h-100 align-items-end">
 					<a href="http://b-idea.kz/trudovoi_kodeks_k.php" target="_blank" class="register px-4 w-50">Подробнее</a>
 			</div>
 		</div>
 		</div>
-		
+		<div class="carousel-item">
+		<div class="mainbanner h-100" style="background-image:url('images/seminar23.jpg')">
+			<div class="d-flex h-100 align-items-end">
+					<a href="http://b-idea.kz/soglasitelnaya_komissiya_4.php" target="_blank" class="register px-4 w-50">Подробнее</a>
+			</div>
+		</div>
+		</div>
 
 		<div class="carousel-item">
 		<div class="mainbanner" style="background:url('images/bgforbanner3.jpg') repeat center center/contain;;">
