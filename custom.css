@@ -359,6 +359,7 @@ a.navbar-brand {
 .register {
 	display: block;
     margin: 40px auto 40px;
+    max-width: 320px;
     border: 0;
     background-color: #458af3;
     color: #fff !important;
