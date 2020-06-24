@@ -153,17 +153,18 @@
 </div> -->
 </section>
 <hr>
-<section class="container cost center">
+<section class="container cost">
 <div class="row">
 <div class="col-md-6">
+<center>
 <h4>Продолжительность</h4>
-<i class="fa fa-clock-o fa-5x" aria-hidden="true"></i>
+<i class="fa fa-clock-o fa-5x" aria-hidden="true"></i></center>
 <h6><strong>1 день</strong><br>с 10:00 до 12:00 - занятия<br>с 12:00 до 13:00 - обед<br>с 13:00 до 15:30 занятия (15 минут перерыв на кофе-брейк)</h6>
 </div><!-- /.col-md-6 -->
-<div class="col-md-6">
+<div class="col-md-6 center">
 <h4>Стоимость участия:</h4>
 <i class="fa fa-money fa-5x" aria-hidden="true"></i>
-<h6></h6>
+<h6>напишите нам на info@b-idea.kz</h6>
 </div><!-- /.col-md-6 -->
 </div>
 </section>
