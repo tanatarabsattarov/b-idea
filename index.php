@@ -31,24 +31,7 @@
 		</div>
 		</div>
 
-		<div class="carousel-item">
-		<div class="mainbanner" style="background:url('images/bgforbanner3.jpg') repeat center center/contain;;">
-	    <div style="background:url('images/gileva_tk.jpg') no-repeat right bottom/contain;">
-		<div class="container">
-			
-			<h1 style="color:#F5F801;">ТРУДОВОЙ КОДЕКС РК</h1>
-			
-			<h4><span style="color:#fff;">с учетом положений проекта последних изменений и дополнений в мае 2020 года</span></h4>
-			<p style="color:#fff;"><span style="background:#6D00AD;color:#fff;padding:0 10px;">15-17 июня</span> 2020 года<br><br>
-			<span style="background:#6D00AD;color:#fff;padding:0 10px;">онлайн</span></p>
-			
-			<div class="row">
-			<div class="col-md-6"><a href="/trudovoi_kodeks_gileva.php" target="_blank" style="background-color: #6D00AD;" class="register">Подробнее</a></div>
-			</div>
-    	</div>
-	    </div>
-    </div>
-</div>
+		
 	<div class="carousel-item">
 	<div class="mainbanner" style="background:url('images/bgforbanner3.jpg') repeat center center/contain;;">
 	    <div style="background:url('images/gileva_tk.jpg') no-repeat right bottom/contain;">
