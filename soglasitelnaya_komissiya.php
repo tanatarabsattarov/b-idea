@@ -5,7 +5,7 @@
     <main class="template">
     <div class="mainbanner" style="background-image:url('images/online_seminar_t_s_g.jpg'); height:550px;">
 		</div>
-    <div class="container content">
+    <div class="container content" style="margin-top:0;">
 	<div class="row">
 	<div class="col-md-12">
 					<center><a href="https://form.jotform.com/62335883866166" target="_blank" class="register px-4 w-50">Принять участие</a></center>
