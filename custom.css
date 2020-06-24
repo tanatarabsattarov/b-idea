@@ -359,7 +359,6 @@ a.navbar-brand {
 .register {
 	display: block;
     margin: 40px auto 40px;
-    width: 354px;
     border: 0;
     background-color: #458af3;
     color: #fff !important;
@@ -367,7 +366,6 @@ a.navbar-brand {
     text-transform: uppercase;
     letter-spacing: 2px;
     font: 16px/52px "Proxima Nova Bold";
-    width: 100%;
     cursor: pointer;
 }
 
