@@ -6,10 +6,10 @@
     <div class="mainbanner" style="background:url('images/online_seminar_t_s_g.jpg') no-repeat center/contain; height:52vw;">
 		</div>
     <div class="container content" style="margin-top:0;">
-	<div class="row">
-	<div class="col-md-12">
-					<center><a href="https://form.jotform.com/62335883866166" target="_blank" class="register px-4">Принять участие</a></center>
-	</div>
+	<div class="row"><center>
+	<div class="col-md-4 col-xs-12">
+					<a href="https://form.jotform.com/62335883866166" target="_blank" class="register px-4">Принять участие</a>
+	</div></center>
 	</div>
 	    <div class="row">
 		    <div class="col-md-3">
