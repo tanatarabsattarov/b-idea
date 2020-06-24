@@ -3,23 +3,11 @@
 	include("includes/header.html"); ?>
 
     <main class="template">
-    <div class="mainbanner" style="background-image:url('images/bgforbanner.jpg');">
-		<!-- <div style="background: url('images/spory3.png') no-repeat right center/cover;"> -->
-		<div>
-			<div class="container">
-			<h1>Трудовые споры.<br>Согласительная комиссия</h1>
-			<br>
-			<h4><span>Причины их возникновения. Порядок разрешения трудового спора в согласительной комиссии.</span></h4>
-			<p><span class="date">22-23</span> сентября 2020 года<br>город <b>Актау</b><br></p>
-			
-			<div class="row">
-			<div class="col-md-3"></div>
-			<div class="col-md-6"><a href="https://form.jotform.com/62335883866166" target="_blank" class="register">Принять участие</a></div>
-			<div class="col-md-3"></div>
+    <div class="mainbanner" style="background-image:url('images/online_seminar_t_s_g.jpg'); height:450px;">
+			<div class="d-flex h-100 align-items-end">
+					<a href="https://form.jotform.com/62335883866166" target="_blank" class="register px-4 w-50">Принять участие</a>
 			</div>
-    	</div>
 		</div>
-    </div>
     <div class="container content">
 	    <div class="row">
 		    <div class="col-md-3">
@@ -168,12 +156,12 @@
 <div class="col-md-6">
 <h4>Продолжительность</h4>
 <i class="fa fa-clock-o fa-5x" aria-hidden="true"></i>
-<h6><strong>1 день</strong><br>с 10 до 18 часов </h6>
+<h6><strong>1 день</strong><br>с 10:00 до 12:00 - занятия<br>с 12:00 до 13:00 - обед<br>с 13:00 до 15:30 занятия (15 минут перерыв на кофе-брейк)</h6>
 </div><!-- /.col-md-6 -->
 <div class="col-md-6">
 <h4>Стоимость участия:</h4>
 <i class="fa fa-money fa-5x" aria-hidden="true"></i>
-<h6><strong>135 000 тг.</strong><br>(НДС не облагается)</h6>
+<h6></h6>
 </div><!-- /.col-md-6 -->
 </div>
 </section>
@@ -181,25 +169,20 @@
 <section class="container marketing cost center">
 		    <h4>Стоимость включает:</h4>
 		    <div class="row">
-          <div class="col-lg-3">
+          <div class="col-lg-4">
             <i class="fa fa-graduation-cap fa-5x" aria-hidden="true"></i>
-            <h6>Обучение</h6>
-          </div><!-- /.col-lg-3 -->
-		  <div class="col-lg-3">
-            <i class="fa fa-coffee fa-5x" aria-hidden="true"></i>
-            <h6>Кофе-брейки</h6>
-          </div><!-- /.col-lg-3 -->
-          <div class="col-lg-3">
-            <i class="fa fa-cutlery fa-5x" aria-hidden="true"></i>
-            <h6>Обеды</h6>
-          </div><!-- /.col-lg-3 -->
-          <div class="col-lg-3">
+            <h6>Обучение</h6><p>(в режиме закрытой группы)</p>
+          </div><!-- /.col-lg-4 -->
+          <div class="col-lg-4">
+            <i class="fa fa-clipboard fa-5x" aria-hidden="true"></i>
+            <h6>Учебные материалы по теме</h6>
+          </div><!-- /.col-lg-4 -->
+          <div class="col-lg-4">
             <i class="fa fa-check-circle fa-5x" aria-hidden="true"></i>
             <h6>Все налоговые сборы</h6>
-          </div><!-- /.col-lg-3 -->
+          </div><!-- /.col-lg-4 -->
 		    </div>
 	    </section>
-
 <hr>
 <div class="container">
 <div class="row">
