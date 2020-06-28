@@ -32,43 +32,7 @@
 		</div>
 
 		
-	<div class="carousel-item">
-	<div class="mainbanner" style="background:url('images/bgforbanner3.jpg') repeat center center/contain;;">
-	    <div style="background:url('images/gileva_tk.jpg') no-repeat right bottom/contain;">
-		<div class="container">
-			
-			<h1 style="color:#F5F801;">ТРУДОВОЙ КОДЕКС РК</h1>
-			
-			<h4><span style="color:#fff;">с учетом последних изменений</span></h4>
-			<p style="color:#fff;"><span style="background:#6D00AD;color:#fff;padding:0 10px;">24-25 сентября</span> 2020 года<br><br>
-			город <span style="background:#6D00AD;color:#fff;padding:0 10px;">Актау</span></p>
-			
-			<div class="row">
-			<div class="col-md-6"><a href="/trudovoi_kodeks_gileva2.php" target="_blank" style="background-color: #6D00AD;" class="register">Подробнее</a></div>
-			</div>
-    	</div>
-	    </div>
-    </div>
-	</div>
-		<div class="carousel-item">
-		<div class="mainbanner" style="background-image:url('images/bgforbanner.jpg');">
-		<!-- <div style="background: url('images/spory3.png') no-repeat right center/cover;"> -->
-		<div>
-			<div class="container">
-			<h1>Трудовые споры. Согласительная комиссия</h1>
-			<br>
-			<h4><span>Причины их возникновения. Порядок разрешения трудового спора в согласительной комиссии.</span></h4>
-			<p><span class="date">22-23</span> сентября 2020 года<br>город <b>Актау</b><br></p>
-			
-			<div class="row">
-			<div class="col-md-3"></div>
-			<div class="col-md-6"><a href="soglasitelnaya_komissiya.php" target="_blank" class="register">Подробнее</a></div>
-			<div class="col-md-3"></div>
-			</div>
-    	</div>
-		</div>
-    </div>
-		</div>
+	
 		
           <div class="carousel-item">
 			<div class="corporate corporatebanner">
