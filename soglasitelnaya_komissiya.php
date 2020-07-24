@@ -164,8 +164,7 @@
 <div class="col-md-6 center">
 <h4>Стоимость участия:</h4>
 <i class="fa fa-money fa-5x" aria-hidden="true"></i>
-<h6>до 10 июля <strong>85 000 тг.</strong><br>
-до 5 августа <strong>95 000 тг.</strong><br>
+<h6>до 5 августа <strong>105 000 тг.</strong><br>
 после 6 августа <strong>120 000 тг.</strong></h6>
 </div><!-- /.col-md-6 -->
 </div>
