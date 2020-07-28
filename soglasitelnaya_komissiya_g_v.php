@@ -119,12 +119,12 @@
 <div class="col-md-4 center">
 <h4>Стоимость участия:</h4>
 <i class="fa fa-money fa-5x" aria-hidden="true"></i>
-<h6>99 000 тг.</h6>
+<h6><strong>99 000 тг.</strong></h6>
 </div><!-- /.col-md-4 -->
 <div class="col-md-4 center">
 <h4>Кол-во участников:</h4>
 <i class="fa fa-user fa-5x" aria-hidden="true"></i>
-<h6>ограничено<br>(корпоративная группа)</h6>
+<h6><strong>ограничено</strong><br>(корпоративная группа)</h6>
 </div><!-- /.col-md-4 -->
 </div>
 </section>
