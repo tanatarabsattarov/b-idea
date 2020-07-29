@@ -162,7 +162,7 @@
             <h6>Учебные материалы по теме</h6>
           </div><!-- /.col-lg-3 -->
           <div class="col-lg-3">
-            <i class="fa fa-tenge fa-5x" aria-hidden="true"></i>
+            <i class="fa fa-credit-card fa-5x" aria-hidden="true"></i>
             <h6>бесплатное консультирование по пройденным вопросам в течении 2-х месяцев по теме медиативных компетенций</h6>
           </div><!-- /.col-lg-3 -->
 		  <div class="col-lg-3">
