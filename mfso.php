@@ -66,7 +66,7 @@
 		<h3>Кто Ведет?</h3>
 		    </div>	
 <div class="col-md-9 boxborder">
-	<img class="consultant rounded-circle" style="background:url('images/kolesnikova.jpg') top center/cover;"/>
+	<img class="consultant rounded-circle" style="background:url('images/mihaleva.jpg') top center/cover;"/>
 		    <h4>Е.В. Михалева</h4>
 			<p>Бизнес - тренер, высококвалифицированный специалист
 с большим практическим опытом работы в области бухгалтерского учета, эксперт в области
