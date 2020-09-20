@@ -64,27 +64,6 @@
 <div class="menu-types__item"><a href="#" class="menu-types__link">Трудовое право</a></div>
 </div>
 
-<section style="background: url('../about/images/our_team/5.jpg') no-repeat center center/cover">
-	<div class="about" style="background: linear-gradient(rgba(255,255,255,.8), rgba(255,255,255,.9));padding:100px 0px;">
-	<div class="container">
-	<h2 style="padding-bottom: 0;margin-bottom: 0;">Бизнес Школа IDEA</h2>
-	<p class="about_text">это профессиональный провайдер образовательных и консалтинговых услуг</p>
-	<h3>Наша Миссия: <span>распространение  и развитие в Казахстане культуры менеджмента</span></h3>
-	<div class="row">
-		<div class="col-md-6">
-			<p><span>200+</span><br>
-				профессиональных экспертов, тренеров, преподавателей, консультантов - практиков, в числе которых: консультанты с опытом руководства в HR подразделений крупнейших компаний (10-20 лет), тренеры, имеющие большой практический опыт работы в ведущих компаниях и учебных центрах
-			</p>
-		</div>
-		<div class="col-md-6">
-			<p><span class="eighty">80</span><br>
-				авторских программ обучения в области управления, управления персоналом, регулирования трудовых отношений и проведения закупок в РК
-			</p>
-		</div>
-	</div>
-	</div>
-	</div>
-</section>
 <section class="program grey" style="margin-top:80px;">
 <div class="container">
 	<h2 id="comming_soon">Ближайшие Программы</h2>
@@ -162,4 +141,28 @@
 	
 </div>
 </section>
+
+
+<section style="background: url('../about/images/our_team/5.jpg') no-repeat center center/cover">
+	<div class="about" style="background: linear-gradient(rgba(255,255,255,.8), rgba(255,255,255,.9));padding:100px 0px;">
+	<div class="container">
+	<h2 style="padding-bottom: 0;margin-bottom: 0;">Бизнес Школа IDEA</h2>
+	<p class="about_text">это профессиональный провайдер образовательных и консалтинговых услуг</p>
+	<h3>Наша Миссия: <span>распространение  и развитие в Казахстане культуры менеджмента</span></h3>
+	<div class="row">
+		<div class="col-md-6">
+			<p><span>200+</span><br>
+				профессиональных экспертов, тренеров, преподавателей, консультантов - практиков, в числе которых: консультанты с опытом руководства в HR подразделений крупнейших компаний (10-20 лет), тренеры, имеющие большой практический опыт работы в ведущих компаниях и учебных центрах
+			</p>
+		</div>
+		<div class="col-md-6">
+			<p><span class="eighty">80</span><br>
+				авторских программ обучения в области управления, управления персоналом, регулирования трудовых отношений и проведения закупок в РК
+			</p>
+		</div>
+	</div>
+	</div>
+	</div>
+</section>
+
   <?php include("includes/footer.html"); ?>
