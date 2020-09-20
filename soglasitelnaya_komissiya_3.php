@@ -3,7 +3,7 @@
     include("includes/header.html"); ?>
 
     <main class="template">
-    <div class="mainbanner" style="background:url('images/trudovye_spory_k.jpg')no-repeat center/contain; height:53vw;">
+    <div class="mainbanner" style="background:url('images/trudovye_spory_k.jpg')no-repeat center/contain; height:52vw;">
 			
 		</div>
         <div class="container content" style="margin-top:0;">
