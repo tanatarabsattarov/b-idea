@@ -3,7 +3,7 @@
     include("includes/header.html"); ?>
 
     <main class="template">
-    <div class="mainbanner" style="background:url('images/tkrk-1210.jpg') no-repeat center/contain; height:53vw;">
+    <div class="mainbanner" style="background:url('images/tkrk-1210.jpg') no-repeat center/cover; height:53vw;">
     </div>
     <div class="container content" style="margin-top:0;">
 	<div class="row">
