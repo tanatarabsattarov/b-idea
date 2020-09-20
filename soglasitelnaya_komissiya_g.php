@@ -3,7 +3,7 @@
 	include("includes/header.html"); ?>
 
     <main class="template">
-    <div class="mainbanner" style="background:url('images/seminar21-23_09.jpg') no-repeat center/contain; height:53vw;">
+    <div class="mainbanner" style="background:url('images/gileva-0220.jpg') no-repeat center/cover; height:53vw;">
 		</div>
     <div class="container content" style="margin-top:0;">
 	<div class="row">
@@ -98,12 +98,12 @@
 <div class="col-md-4 center">
 <h4>Стоимость участия:</h4>
 <i class="fa fa-money fa-5x" aria-hidden="true"></i>
-<h6><strong>86 000 тг.</strong></h6>
+<h6><strong>75 000 тг.</strong></h6>
 </div><!-- /.col-md-4 -->
 <div class="col-md-4 center">
 <h4>Кол-во участников:</h4>
 <i class="fa fa-user fa-5x" aria-hidden="true"></i>
-<h6><strong>ограничено</strong><br>(корпоративная группа)</h6>
+<h6><strong>ограничено</strong><br>(всего 30 мест)</h6>
 </div><!-- /.col-md-4 -->
 </div>
 </section>
