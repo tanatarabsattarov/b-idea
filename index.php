@@ -85,7 +85,7 @@
 	</div>
 	</div>
 </section>
-<!-- <section class="program grey" style="margin-top:80px;">
+<section class="program grey" style="margin-top:80px;">
 <div class="container">
 	<h2 id="comming_soon">Ближайшие Программы</h2>
 		
@@ -125,5 +125,5 @@
 	</div>
 	
 </div>
-</section> -->
+</section>
   <?php include("includes/footer.html"); ?>
