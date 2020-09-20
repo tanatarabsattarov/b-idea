@@ -4,11 +4,14 @@
 
     <main class="template">
     <div class="mainbanner" style="background:url('images/trudovye_spory_k.jpg')no-repeat center/contain; height:53vw;">
-			<div class="d-flex h-100 align-items-end">
-					<a href="https://form.jotform.com/62335883866166" target="_blank" class="register px-4 w-50">Принять участие</a>
-			</div>
+			
 		</div>
-    <div class="container content">
+        <div class="container content" style="margin-top:0;">
+	<div class="row">
+	<div class="col-md-12">
+					<center><a href="https://form.jotform.com/62335883866166" target="_blank" class="register px-4">Принять участие</a></center>
+	</div>
+	</div>
         <div class="row">
             <div class="col-md-3">
         <h3>Цель</h3>
