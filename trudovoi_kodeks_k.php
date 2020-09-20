@@ -189,7 +189,7 @@
 <div class="col-md-6">
 <h4>Стоимость участия:</h4>
 <i class="fa fa-money fa-5x" aria-hidden="true"></i>
-<h6>48 000 тг. / 1 слушатель</h6>
+<h6><b>48 000 тг.</b> / 1 слушатель</h6>
 </div><!-- /.col-md-6 -->
 </div>
 </section>
