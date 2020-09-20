@@ -72,7 +72,7 @@
 		<div class="col-md-3">
 		<a href="trudovoe_zakonodatelstvo_k.php" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/kolesnikova.jpg);">
 			<div class="program-announce__date">
-				<div class="program-announce__day">12-13</div>
+				<div class="program-announce__day">12</div>
 				<div class="program-announce__mounth">октября</div>
 			</div>
 		</a>
