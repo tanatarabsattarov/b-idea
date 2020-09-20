@@ -130,7 +130,7 @@
 				</span>
 			</div>
 			<div class="program-announce__name">
-				<span class="js-font-size">Трудовой Кодекс РК (с изменениями в 2020 году)</span>
+				<span class="js-font-size">«Медиативные компетенции» (инструменты: эффективного решения спорных/конфликтных ситуаций).</span>
 			</div>
 		</a>
 		</div>
