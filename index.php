@@ -66,7 +66,7 @@
 		
 	<div class="row">
 		<div class="col-md-3">
-		<a href="trudovoe_zakonodatelstvo_k.php" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/kolesnikova.jpg);">
+		<a href="trudovoe_zakonodatelstvo_k.php" class="program-announce__img-container" style="background-size:contain;background-position:top right;background-image:url(../images/trudovoi_kodeks.png);">
 			<div class="program-announce__date">
 				<div class="program-announce__day">12</div>
 				<div class="program-announce__mounth">октября</div>
@@ -102,7 +102,7 @@
 
 		<div class="row">
 		<div class="col-md-3">
-		<a href="trudovoi_kodeks_k.php" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/kolesnikova.jpg);">
+		<a href="trudovoi_kodeks_k.php" class="program-announce__img-container" style="background-size:contain;background-position:top right;background-image:url(../images/trudovoi_kodeks.png);">
 			<div class="program-announce__date">
 				<div class="program-announce__day">14</div>
 				<div class="program-announce__mounth">октября</div>
@@ -174,7 +174,7 @@
 
 	<div class="row">
 		<div class="col-md-3">
-		<a href="soglasitelnaya_komissiya_g.php" class="program-announce__img-container" style="background-size:70%;background-position:top right;background-image:url(../images/handshake.jpg);">
+		<a href="soglasitelnaya_komissiya_g.php" class="program-announce__img-container" style="background-size:75%;background-position:top right;background-image:url(../images/handshake.jpg);">
 			<div class="program-announce__date">
 				<div class="program-announce__day">02</div>
 				<div class="program-announce__mounth">ноября</div>
@@ -211,7 +211,7 @@
 
 	<div class="row">
 		<div class="col-md-3">
-		<a href="soglasitelnaya_komissiya_g2.php" class="program-announce__img-container" style="background-size:70%;background-position:top right;background-image:url(../images/handshake.jpg);">
+		<a href="soglasitelnaya_komissiya_g2.php" class="program-announce__img-container" style="background-size:75%;background-position:top right;background-image:url(../images/handshake.jpg);">
 			<div class="program-announce__date">
 				<div class="program-announce__day">04</div>
 				<div class="program-announce__mounth">ноября</div>
