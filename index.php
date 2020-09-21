@@ -174,7 +174,7 @@
 
 	<div class="row">
 		<div class="col-md-3">
-		<a href="soglasitelnaya_komissiya_g.php" class="program-announce__img-container" style="background-size:80%;background-position:top right;background-image:url(../images/handshake.jpg);">
+		<a href="soglasitelnaya_komissiya_g.php" class="program-announce__img-container" style="background-size:70%;background-position:top right;background-image:url(../images/handshake.jpg);">
 			<div class="program-announce__date">
 				<div class="program-announce__day">02</div>
 				<div class="program-announce__mounth">ноября</div>
@@ -211,7 +211,7 @@
 
 	<div class="row">
 		<div class="col-md-3">
-		<a href="soglasitelnaya_komissiya_g2.php" class="program-announce__img-container" style="background-size:80%;background-position:top right;background-image:url(../images/handshake.jpg);">
+		<a href="soglasitelnaya_komissiya_g2.php" class="program-announce__img-container" style="background-size:70%;background-position:top right;background-image:url(../images/handshake.jpg);">
 			<div class="program-announce__date">
 				<div class="program-announce__day">04</div>
 				<div class="program-announce__mounth">ноября</div>
