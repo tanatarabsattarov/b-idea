@@ -237,7 +237,7 @@ a.navbar-brand {
     height:132px;
 }
 .program-announce__speaker {
-    font-size: 15px;
+    font-size: 16px;
     color: #242338;
     display: inline-block;
     font-weight: 700;
@@ -259,7 +259,7 @@ a.navbar-brand {
     color: #aa7648;
 }
 .program-announce__name {
-    font-size: 15px;
+    font-size: 18px;
     color: #242338;
     font-weight: 700;
     line-height: 28px;

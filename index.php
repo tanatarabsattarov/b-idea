@@ -196,7 +196,7 @@
 				Семинар
 				</span>
 			</div>
-			<div class="program-announce__name">
+			<div class="program-announce__name" style="font-size:15px;">
 				<span class="js-font-size">Обучение членов согласительной комиссии основам трудового законодательства РЕК и умению вести переговоры и достижению консенсуса в трудовых спорах</span>
 			</div>
 		</a>
@@ -233,7 +233,7 @@
 				Семинар
 				</span>
 			</div>
-			<div class="program-announce__name">
+			<div class="program-announce__name" style="font-size:15px;">
 				<span class="js-font-size">Обучение членов согласительной комиссии основам трудового законодательства РЕК и умению вести переговоры и достижению консенсуса в трудовых спорах</span>
 			</div>
 		</a>
