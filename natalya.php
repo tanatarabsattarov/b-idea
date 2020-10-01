@@ -51,8 +51,8 @@
         <h3>Содержание</h3>
             </div>
              <div class="col-md-9 boxborder">
-<p>День 1.</p>
-<ul><li><b>Нормативно-правовое регулирование трудовых отношений.</b></li></ul>
+<p><b>День 1.</b></p>
+
 <ol>
 	<li>УПРАВЛЕНИЕ ПО РЕЗУЛЬТАТАМ. МВО, KPI И BSC: ЧТО ЭФФЕКТИВНЕЕ ПРИ ДИСТАНЦИОННОЙ ФОРМАТЕ?</li>
     <ul>
@@ -84,7 +84,7 @@
     </ul>
 
 </ol>
-<p>День 2.</p>
+<p><b>День 2.</b></p>
     <ol>
     <li>УПРАВЛЕНИЕ ПЕРСОНАЛОМ «НА РАССТОЯНИИ»</li>
     <ul>
@@ -123,7 +123,7 @@
 		<h3>Кто Ведет?</h3>
 		    </div>	
 <div class="col-md-9 boxborder">
-	<img class="consultant rounded-circle" style="background:url('images/kolesnikova.jpg') top center/cover;"/>
+	<img class="consultant rounded-circle" style="background:url('images/KrasnovaNAV.jpg') top center/cover;"/>
 		    <h4>Наталья Краснова</h4>
 			<p>Эксперт в области управления эффективностью, организационного развития  и управления персоналом.</p>
 			<ul>
