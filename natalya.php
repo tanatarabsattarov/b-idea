@@ -122,7 +122,7 @@
 		<h3>Кто Ведет?</h3>
 		    </div>	
 <div class="col-md-9 boxborder">
-	<img class="consultant rounded-circle" style="background:url('images/KrasnovaNAV.jpg') top center/cover;"/>
+	<img class="consultant rounded-circle" style="background:url('images/krasnova1.jpg') top center/cover;"/>
 		    <h4>Наталья Краснова</h4>
 			<p>Эксперт в области управления эффективностью, организационного развития  и управления персоналом.</p>
 			<ul>
