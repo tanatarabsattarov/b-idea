@@ -22,9 +22,9 @@
 		</div>
 
 		<div class="carousel-item ">
-		<div class="mainbanner h-100" style="background-image:url('images/tkrk_rukovoditeli.jpg')">
+		<div class="mainbanner h-100" style="background-image:url('images/gileva-0220.jpg')">
 			<div class="d-flex h-100 align-items-end">
-					<a href="http://b-idea.kz/tkrk_rukovoditeli.php" target="_blank" class="register px-4 w-50">Подробнее</a>
+					<a href="http://b-idea.kz/soglasitelnaya_komissiya_g.php" target="_blank" class="register px-4 w-50">Подробнее</a>
 			</div>
 		</div>
 		</div>
