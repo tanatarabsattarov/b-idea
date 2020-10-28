@@ -110,8 +110,8 @@
 				Семинар
 				</span>
 			</div>
-			<div class="program-announce__name">
-				<span class="js-font-size">Обучение членов согласительной комиссии основам трудового законодательства РЕК и умению вести переговоры и достижению консенсуса в трудовых спорах</span>
+			<div class="program-announce__name" style="font-size:15px;">
+				<span class="js-font-size">Обучение членов согласительной комиссии основам трудового законодательства и умению вести переговоры и достижению консенсуса в трудовых спорах</span>
 			</div>
 		</a>
 		</div>
@@ -261,7 +261,7 @@
 			</div>
 			<div class="program-announce__name">
 				<span class="js-font-size">ИНДИВИДУАЛЬНЫЕ ТРУДОВЫЕ СПОРЫ.
-СОГЛАСИТЕЛЬНАЯ КОМИССИЯ.</span>
+СОГЛАСИТЕЛЬНАЯ КОМИССИЯ</span>
 			</div>
 		</a>
 		</div>
@@ -274,7 +274,7 @@
 
 <div class="row">
 	<div class="col-md-3">
-	<a href="tkrk-1819_k.php" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/trudovoi_kodeks.png);">
+	<a href="tkrk-1819_k.php" class="program-announce__img-container" style="background-size:30%;background-position:top right;background-image:url(../images/trudovoi_kodeks.png);">
 		<div class="program-announce__date">
 			<div class="program-announce__day">18</div>
 			<div class="program-announce__mounth">ноября</div>
@@ -296,7 +296,7 @@
 			Семинар
 			</span>
 		</div>
-		<div class="program-announce__name">
+		<div class="program-announce__name" style="font-size:15px;">
 			<span class="js-font-size">ДЕТАЛЬНЫЙ ОБЗОР ИЗМЕНЕНИЙ В ТРУДОВОМ КОДЕКСЕ РК 2020 ГОДА И ПРОФИЛАКТИКА ТРУДОВЫХ КОНФЛИКТОВ В УСЛОВИЯХ НОВЫХ РЕАЛИЙ.
 </span>
 		</div>
