@@ -30,16 +30,6 @@
 	<div class="row">
 		<div class="col-md-3">
 			<div class="card">
-			  <img class="card-img-top" src="images/speakers/fridman.jpg" alt="fridman_image">
-			  <div class="card-body">
-			    <h5 class="card-title">Александр<br>ФРИДМАН</h5>
-			    <p class="card-text">Регулярный<br>менеджмент</p>
-			    <a href="#" class="btn btn-primary">Подробнее</a>
-			  </div>
-			</div>
-		</div>
-		<div class="col-md-3">
-			<div class="card">
 			  <img class="card-img-top" src="images/speakers/anushkin.jpg" alt="anushkin_image">
 			  <div class="card-body">
 			    <h5 class="card-title">Юрий<br>АНУШКИН</h5>
@@ -101,16 +91,7 @@
 			  </div>
 			</div>
 		</div>			
-		<div class="col-md-3">
-			<div class="card">
-			  <img class="card-img-top" src="images/speakers/miroshnichenko.jpg" alt="miroshnichenko_image">
-			  <div class="card-body">
-			    <h5 class="card-title">Андрей<br>МИРОШНИЧЕНКО</h5>
-			    <p class="card-text">профессиональный коуч ICU</p>
-			    <a href="#" class="btn btn-primary">Подробнее</a>
-			  </div>
-			</div>
-		</div>								
+								
 	</div>
 	
 	</div>
