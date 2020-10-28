@@ -86,18 +86,20 @@
 		
 	<div class="row">
 		<div class="col-md-3">
-		<a href="trudovoe_zakonodatelstvo_k.php" class="program-announce__img-container" style="background-size:contain;background-position:top right;background-image:url(../images/trudovoi_kodeks.png);">
+		<a href="soglasitelnaya_komissiya_g
+		k.php" class="program-announce__img-container" style="background-size:75%;background-position:top right;background-image:url(../images/handshake.jpg);">
 			<div class="program-announce__date">
-				<div class="program-announce__day">12</div>
+				<div class="program-announce__day">29</div>
 				<div class="program-announce__mounth">октября</div>
 			</div>
 		</a>
 		</div>
 		<div class="col-md-7">
-		<a class="program-announce__middle" href="trudovoe_zakonodatelstvo_k.php">
+		<a class="program-announce__middle" href="soglasitelnaya_komissiya_g
+		k.php">
 			<div class="program-announce__speaker">
 				<span class="program-announce__speaker-link">
-				Марина Колесникова
+				Марина Коллесникова / Ирина Виговская 
 				</span>
 			</div>
 			<div class="program-announce__city">
@@ -109,84 +111,13 @@
 				</span>
 			</div>
 			<div class="program-announce__name">
-				<span class="js-font-size">ТРУДОВОЕ ЗАКОНОДАТЕЛЬСТВО<br>Особенности регулирования трудовых отношений</span>
+				<span class="js-font-size">Обучение членов согласительной комиссии основам трудового законодательства РЕК и умению вести переговоры и достижению консенсуса в трудовых спорах</span>
 			</div>
 		</a>
 		</div>
 		<div class="col-md-2 more_info_parent">
-		<a class="more_info" href="trudovoe_zakonodatelstvo_k.php">Подробнее</a>
-		</div>
-	</div>
-
-	<hr>
-
-		<div class="row">
-		<div class="col-md-3">
-		<a href="trudovoi_kodeks_k.php" class="program-announce__img-container" style="background-size:contain;background-position:top right;background-image:url(../images/trudovoi_kodeks.png);">
-			<div class="program-announce__date">
-				<div class="program-announce__day">14</div>
-				<div class="program-announce__mounth">октября</div>
-			</div>
-		</a>
-		</div>
-		<div class="col-md-7">
-		<a class="program-announce__middle" href="trudovoi_kodeks_k.php">
-			<div class="program-announce__speaker">
-				<span class="program-announce__speaker-link">
-				Марина Колесникова
-				</span>
-			</div>
-			<div class="program-announce__city">
-				<span class="text-color_brown">ОНЛАЙН</span>
-			</div>
-			<div class="program-announce__theme">
-				<span class="text-color_brown">
-				Семинар
-				</span>
-			</div>
-			<div class="program-announce__name">
-				<span class="js-font-size">Трудовой Кодекс РК (с изменениями в 2020 году)</span>
-			</div>
-		</a>
-		</div>
-		<div class="col-md-2 more_info_parent">
-		<a class="more_info" href="trudovoi_kodeks_k.php">Подробнее</a>
-		</div>
-	</div>
-
-	<hr>
-
-	<div class="row">
-		<div class="col-md-3">
-		<a href="mediativnye_kompetencii.php" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/vigovskaya.jpg);">
-			<div class="program-announce__date">
-				<div class="program-announce__day">14</div>
-				<div class="program-announce__mounth">октября</div>
-			</div>
-		</a>
-		</div>
-		<div class="col-md-7">
-		<a class="program-announce__middle" href="mediativnye_kompetencii.php">
-			<div class="program-announce__speaker">
-				<span class="program-announce__speaker-link">
-				Виговская Ирина
-				</span>
-			</div>
-			<div class="program-announce__city">
-				<span class="text-color_brown">ОНЛАЙН</span>
-			</div>
-			<div class="program-announce__theme">
-				<span class="text-color_brown">
-				Семинар
-				</span>
-			</div>
-			<div class="program-announce__name">
-				<span class="js-font-size">«Медиативные компетенции» (инструменты: эффективного решения спорных/конфликтных ситуаций).</span>
-			</div>
-		</a>
-		</div>
-		<div class="col-md-2 more_info_parent">
-		<a class="more_info" href="mediativnye_kompetencii.php">Подробнее</a>
+		<a class="more_info" href="soglasitelnaya_komissiya_g
+		k.php">Подробнее</a>
 		</div>
 	</div>
 	
@@ -217,7 +148,7 @@
 				</span>
 			</div>
 			<div class="program-announce__name" style="font-size:15px;">
-				<span class="js-font-size">Обучение членов согласительной комиссии основам трудового законодательства РЕК и умению вести переговоры и достижению консенсуса в трудовых спорах</span>
+				<span class="js-font-size">Обучение членов согласительной комиссии основам трудового законодательства и умению вести переговоры и достижению консенсуса в трудовых спорах</span>
 			</div>
 		</a>
 		</div>
@@ -254,7 +185,7 @@
 				</span>
 			</div>
 			<div class="program-announce__name" style="font-size:15px;">
-				<span class="js-font-size">Обучение членов согласительной комиссии основам трудового законодательства РЕК и умению вести переговоры и достижению консенсуса в трудовых спорах</span>
+				<span class="js-font-size">Обучение членов согласительной комиссии основам трудового законодательства и умению вести переговоры и достижению консенсуса в трудовых спорах</span>
 			</div>
 		</a>
 		</div>
@@ -338,6 +269,43 @@
 		<a class="more_info" href="soglasitelnaya_komissiya_3.php">Подробнее</a>
 		</div>
 	</div>
+
+	<hr>
+
+<div class="row">
+	<div class="col-md-3">
+	<a href="tkrk-1819_k.php" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/trudovoi_kodeks.png);">
+		<div class="program-announce__date">
+			<div class="program-announce__day">18</div>
+			<div class="program-announce__mounth">ноября</div>
+		</div>
+	</a>
+	</div>
+	<div class="col-md-7">
+	<a class="program-announce__middle" href="tkrk-1819_k.php">
+		<div class="program-announce__speaker">
+			<span class="program-announce__speaker-link">
+			Марина Колесникова / Ирина Виговская
+			</span>
+		</div>
+		<div class="program-announce__city">
+			<span class="text-color_brown">ОНЛАЙН</span>
+		</div>
+		<div class="program-announce__theme">
+			<span class="text-color_brown">
+			Семинар
+			</span>
+		</div>
+		<div class="program-announce__name">
+			<span class="js-font-size">ДЕТАЛЬНЫЙ ОБЗОР ИЗМЕНЕНИЙ В ТРУДОВОМ КОДЕКСЕ РК 2020 ГОДА И ПРОФИЛАКТИКА ТРУДОВЫХ КОНФЛИКТОВ В УСЛОВИЯХ НОВЫХ РЕАЛИЙ.
+</span>
+		</div>
+	</a>
+	</div>
+	<div class="col-md-2 more_info_parent">
+	<a class="more_info" href="tkrk-1819_k.php">Подробнее</a>
+	</div>
+</div>
 
 	<hr>
 
