@@ -28,7 +28,7 @@
 	<h2>Ведущие Преподаватели</h2>
 	
 	<div class="row">
-		<div class="col-md-3">
+		<div class="col-md-4">
 			<div class="card">
 			  <img class="card-img-top" src="images/speakers/anushkin.jpg" alt="anushkin_image">
 			  <div class="card-body">
@@ -38,7 +38,7 @@
 			  </div>
 			</div>
 		</div>		
-		<div class="col-md-3">
+		<div class="col-md-4">
 			<div class="card">
 			  <img class="card-img-top" src="images/speakers/krasnova.jpg" alt="krasnova_image">
 			  <div class="card-body">
@@ -48,7 +48,7 @@
 			  </div>
 			</div>
 		</div>		
-		<div class="col-md-3">
+		<div class="col-md-4">
 			<div class="card">
 			  <img class="card-img-top" src="images/speakers/ramazanov.jpg" alt="ramazanov_image">
 			  <div class="card-body">
@@ -61,7 +61,7 @@
 	</div>
 	
 	<div class="row mt-4">
-		<div class="col-md-3">
+		<div class="col-md-4">
 			<div class="card">
 			  <img class="card-img-top" src="images/speakers/podoprigora.jpg" alt="podoprigora_image">
 			  <div class="card-body">
@@ -71,7 +71,7 @@
 			  </div>
 			</div>
 		</div>
-		<div class="col-md-3">
+		<div class="col-md-4">
 			<div class="card">
 			  <img class="card-img-top" src="images/speakers/bereshev.jpg" alt="bereshev_image">
 			  <div class="card-body">
@@ -81,7 +81,7 @@
 			  </div>
 			</div>
 		</div>	
-		<div class="col-md-3">
+		<div class="col-md-4">
 			<div class="card">
 			  <img class="card-img-top" src="images/speakers/gileva.jpg" alt="gileva_image">
 			  <div class="card-body">
