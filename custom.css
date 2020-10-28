@@ -470,7 +470,7 @@ p.about_text {
 	display: flex;
 	align-items: center;
 	min-height: 100px;
-	justify-content: center;
+	/* justify-content: center; */
 }
 .speakers p {
 	color: #aa7648;
