@@ -274,7 +274,7 @@
 
 <div class="row">
 	<div class="col-md-3">
-	<a href="tkrk-1819_k.php" class="program-announce__img-container" style="background-size:30%;background-position:top right;background-image:url(../images/trudovoi_kodeks.png);">
+	<a href="tkrk-1819_k.php" class="program-announce__img-container" style="background-size:90%;background-position:top right;background-image:url(../images/trudovoi_kodeks.png);">
 		<div class="program-announce__date">
 			<div class="program-announce__day">18</div>
 			<div class="program-announce__mounth">ноября</div>
