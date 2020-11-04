@@ -160,12 +160,12 @@
 <div class="col-md-6">
 <h4>Продолжительность</h4>
 <i class="fa fa-clock-o fa-5x" aria-hidden="true"></i>
-<h6><strong>3 дня</strong><br>с 10:00 до 17:00 (в т.ч. перерывы и обед)</h6>
+<h6><strong>1 день</strong><br>с 10:00 до 17:00 (в т.ч. перерывы и обед)</h6>
 </div><!-- /.col-md-6 -->
 <div class="col-md-6">
 <h4>Стоимость участия:</h4>
 <i class="fa fa-money fa-5x" aria-hidden="true"></i>
-<h6><strong>38000</strong><br>(НДС не облагается)</h6>
+<h6><strong>38 000</strong><br>(НДС не облагается)</h6>
 </div><!-- /.col-md-6 -->
 </div>
 </section>
