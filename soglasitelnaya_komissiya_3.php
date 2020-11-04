@@ -3,7 +3,7 @@
     include("includes/header.html"); ?>
 
     <main class="template">
-    <div class="mainbanner" style="background:url('images/trudovye_spory_k.jpg')no-repeat center/cover; height:53vw;">
+    <div class="mainbanner" style="background:url('images/ts-1711.jpg')no-repeat center/cover; height:53vw;">
 			
 		</div>
         <div class="container content" style="margin-top:0;">
@@ -165,7 +165,7 @@
 <div class="col-md-6">
 <h4>Стоимость участия:</h4>
 <i class="fa fa-money fa-5x" aria-hidden="true"></i>
-<h6><strong>____</strong><br>(НДС не облагается)</h6>
+<h6><strong>38000</strong><br>(НДС не облагается)</h6>
 </div><!-- /.col-md-6 -->
 </div>
 </section>
