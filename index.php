@@ -199,7 +199,7 @@
 
 <div class="row">
 	<div class="col-md-3">
-	<a href="#" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/krasnova1.jpg);">
+	<a href="natalya_mk.php" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/krasnova1.jpg);">
 		<div class="program-announce__date">
 			<div class="program-announce__day">13</div>
 			<div class="program-announce__mounth">ноября</div>
@@ -207,7 +207,7 @@
 	</a>
 	</div>
 	<div class="col-md-7">
-	<a class="program-announce__middle" href="#">
+	<a class="program-announce__middle" href="natalya_mk.php">
 		<div class="program-announce__speaker">
 			<span class="program-announce__speaker-link">
 			Наталья Краснова
@@ -227,7 +227,7 @@
 	</a>
 	</div>
 	<div class="col-md-2 more_info_parent">
-	<a class="more_info" href="#">Подробнее</a>
+	<a class="more_info" href="natalya_mk.php">Подробнее</a>
 	</div>
 </div>
 
