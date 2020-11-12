@@ -7,8 +7,7 @@
           <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
           <li data-target="#myCarousel" data-slide-to="1"></li>
 		  <li data-target="#myCarousel" data-slide-to="2"></li>
-		  <li data-target="#myCarousel" data-slide-to="3"></li>
-		  <li data-target="#myCarousel" data-slide-to="4"></li>
+
    	    </ol>
 	
         <div class="carousel-inner">
@@ -32,23 +31,23 @@
 </div>
 
 
-          <div class="carousel-item">
+          <!-- <div class="carousel-item">
 			<div class="corporate corporatebanner">
 			  <div class="overlay" style="height:550px;">
 				<h1 class="center" style="padding-top: 200px">Корпоративное обучение</h1>
 			  </div>
 			</div>
-          </div>
+          </div> -->
 
           <div class="carousel-item" style="background:url('images/adm_service.jpg') repeat center bottom/cover"> 
           </div>
           
-         <div class="carousel-item" style="background:url('images/management_bg.jpg') repeat center center/cover;padding: 0;">
+         <!-- <div class="carousel-item" style="background:url('images/management_bg.jpg') repeat center center/cover;padding: 0;">
 		  <div class="overlay" style="width:50%;background: rgba(0,51,153,0.8);">
 			<div class="container" style="height: 550px;display: flex;align-items: center;text-align: right;justify-content: flex-end;">
 					<h1 style="font-size: 60px;font-family: 'Impact';color:#ffffff;letter-spacing: 1.5px;text-transform: uppercase;">Управленческие<br>программы</h1>
 		  	</div>
-		  </div>
+		  </div> -->
 
           </div>
           
@@ -151,41 +150,7 @@
 	</div>
 </div>
 
-<hr>
 
-<div class="row">
-	<div class="col-md-3">
-	<a href="natalya2.php" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/krasnova1.jpg);">
-		<div class="program-announce__date">
-			<div class="program-announce__day">21</div>
-			<div class="program-announce__mounth">ноября</div>
-		</div>
-	</a>
-	</div>
-	<div class="col-md-7">
-	<a class="program-announce__middle" href="natalya2.php">
-		<div class="program-announce__speaker">
-			<span class="program-announce__speaker-link">
-			Наталья Краснова
-			</span>
-		</div>
-		<div class="program-announce__city">
-			<span class="text-color_brown">ОНЛАЙН</span>
-		</div>
-		<div class="program-announce__theme">
-			<span class="text-color_brown">
-			Семинар
-			</span>
-		</div>
-		<div class="program-announce__name">
-			<span class="js-font-size">Совершенствование системы обучения персонала в компании на основе модели компетенций и профстандартов</span>
-		</div>
-	</a>
-	</div>
-	<div class="col-md-2 more_info_parent">
-	<a class="more_info" href="natalya2.php">Подробнее</a>
-	</div>
-</div>
 
 	<hr>
 
@@ -220,6 +185,42 @@
 	</div>
 	<div class="col-md-2 more_info_parent">
 	<a class="more_info" href="natalya.php">Подробнее</a>
+	</div>
+</div>
+
+<hr>
+
+<div class="row">
+	<div class="col-md-3">
+	<a href="natalya2.php" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/krasnova1.jpg);">
+		<div class="program-announce__date">
+			<div class="program-announce__day">21</div>
+			<div class="program-announce__mounth">декабря</div>
+		</div>
+	</a>
+	</div>
+	<div class="col-md-7">
+	<a class="program-announce__middle" href="natalya2.php">
+		<div class="program-announce__speaker">
+			<span class="program-announce__speaker-link">
+			Наталья Краснова
+			</span>
+		</div>
+		<div class="program-announce__city">
+			<span class="text-color_brown">ОНЛАЙН</span>
+		</div>
+		<div class="program-announce__theme">
+			<span class="text-color_brown">
+			Семинар
+			</span>
+		</div>
+		<div class="program-announce__name">
+			<span class="js-font-size">Совершенствование системы обучения персонала в компании на основе модели компетенций и профстандартов</span>
+		</div>
+	</a>
+	</div>
+	<div class="col-md-2 more_info_parent">
+	<a class="more_info" href="natalya2.php">Подробнее</a>
 	</div>
 </div>
 
