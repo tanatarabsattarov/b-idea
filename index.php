@@ -8,8 +8,6 @@
           <li data-target="#myCarousel" data-slide-to="1"></li>
 		  <li data-target="#myCarousel" data-slide-to="2"></li>
 		  <li data-target="#myCarousel" data-slide-to="3"></li>
-		  <li data-target="#myCarousel" data-slide-to="4"></li>
-		  <li data-target="#myCarousel" data-slide-to="5"></li>
    	    </ol>
 	
         <div class="carousel-inner">
@@ -18,23 +16,6 @@
 		<div class="mainbanner h-100" style="background-image:url('images/natalya.jpg')">
 			<div class="d-flex h-100 align-items-end">
 					<a href="http://b-idea.kz/natalya.php" target="_blank" class="register px-4 w-50">Подробнее</a>
-			</div>
-		</div>
-		</div>
-
-		<div class="carousel-item ">
-		<div class="mainbanner h-100" style="background-image:url('images/29-30.jpg')">
-			<div class="d-flex h-100 align-items-end">
-					<a href="http://b-idea.kz/soglasitelnaya_komissiya_k.php" target="_blank" class="register px-4 w-50">Подробнее</a>
-			</div>
-		</div>
-		</div>
-
-
-		<div class="carousel-item ">
-		<div class="mainbanner h-100" style="background-image:url('images/gileva-0220.jpg')">
-			<div class="d-flex h-100 align-items-end">
-					<a href="http://b-idea.kz/soglasitelnaya_komissiya_g.php" target="_blank" class="register px-4 w-50">Подробнее</a>
 			</div>
 		</div>
 		</div>
