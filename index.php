@@ -20,6 +20,17 @@
 		</div>
 		</div>
 		
+		<div class="carousel-inner">
+
+<div class="carousel-item">
+<div class="mainbanner h-100" style="background-image:url('images/natalya-2111.jpg')">
+	<div class="d-flex h-100 align-items-end">
+			<a href="http://b-idea.kz/natalya2.php" target="_blank" class="register px-4 w-50">Подробнее</a>
+	</div>
+</div>
+</div>
+
+
           <div class="carousel-item">
 			<div class="corporate corporatebanner">
 			  <div class="overlay" style="height:550px;">
@@ -136,6 +147,42 @@
 	</div>
 	<div class="col-md-2 more_info_parent">
 	<a class="more_info" href="tkrk-1819_k.php">Подробнее</a>
+	</div>
+</div>
+
+<hr>
+
+<div class="row">
+	<div class="col-md-3">
+	<a href="natalya2.php" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/krasnova1.jpg);">
+		<div class="program-announce__date">
+			<div class="program-announce__day">21</div>
+			<div class="program-announce__mounth">ноября</div>
+		</div>
+	</a>
+	</div>
+	<div class="col-md-7">
+	<a class="program-announce__middle" href="natalya2.php">
+		<div class="program-announce__speaker">
+			<span class="program-announce__speaker-link">
+			Наталья Краснова
+			</span>
+		</div>
+		<div class="program-announce__city">
+			<span class="text-color_brown">ОНЛАЙН</span>
+		</div>
+		<div class="program-announce__theme">
+			<span class="text-color_brown">
+			Семинар
+			</span>
+		</div>
+		<div class="program-announce__name">
+			<span class="js-font-size">Совершенствование системы обучения персонала в компании на основе модели компетенций и профстандартов</span>
+		</div>
+	</a>
+	</div>
+	<div class="col-md-2 more_info_parent">
+	<a class="more_info" href="natalya2.php">Подробнее</a>
 	</div>
 </div>
 

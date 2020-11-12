@@ -34,7 +34,7 @@
         </ul>
            </div></div>
         <hr>       
-        <div class="row">l
+        <div class="row">
             <div class="col-md-3">
         <h3>В программе</h3>
             </div>
