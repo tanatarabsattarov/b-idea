@@ -117,15 +117,15 @@
 
 <div class="row">
 	<div class="col-md-2">
-	<a href="tkrk-1819_k.php" class="program-announce__img-container" style="background-size:90%;background-position:top right;background-image:url(../images/trudovoi_kodeks.png);">
+	<a href="#" class="program-announce__img-container" style="background-size:90%;background-position:top right;background-image:url(../images/trudovoi_kodeks.png);">
 		<div class="program-announce__date">
-			<div class="program-announce__day">18</div>
+			<div class="program-announce__day">23-24</div>
 			<div class="program-announce__mounth">ноября</div>
 		</div>
 	</a>
 	</div>
 	<div class="col-md-8">
-	<a class="program-announce__middle" href="tkrk-1819_k.php">
+	<a class="program-announce__middle" href="#">
 		<div class="program-announce__speaker">
 			<span class="program-announce__speaker-link">
 			Марина Колесникова / Ирина Виговская
@@ -140,13 +140,13 @@
 			</span>
 		</div>
 		<div class="program-announce__name" style="font-size:15px;">
-			<span class="js-font-size">ДЕТАЛЬНЫЙ ОБЗОР ИЗМЕНЕНИЙ В ТРУДОВОМ КОДЕКСЕ РК 2020 ГОДА И ПРОФИЛАКТИКА ТРУДОВЫХ КОНФЛИКТОВ В УСЛОВИЯХ НОВЫХ РЕАЛИЙ.
+			<span class="js-font-size">Новое в МСФО
 </span>
 		</div>
 	</a>
 	</div>
 	<div class="col-md-2 more_info_parent">
-	<a class="more_info" href="tkrk-1819_k.php">Подробнее</a>
+	<a class="more_info" href="#">Подробнее</a>
 	</div>
 </div>
 
@@ -156,15 +156,15 @@
 
 <div class="row">
 	<div class="col-md-2">
-	<a href="natalya.php" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/krasnova1.jpg);">
+	<a href="#" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/krasnova1.jpg);">
 		<div class="program-announce__date">
-			<div class="program-announce__day">23</div>
-			<div class="program-announce__mounth">ноября</div>
+			<div class="program-announce__day">07</div>
+			<div class="program-announce__mounth">декабря</div>
 		</div>
 	</a>
 	</div>
 	<div class="col-md-8">
-	<a class="program-announce__middle" href="natalya.php">
+	<a class="program-announce__middle" href="#">
 		<div class="program-announce__speaker">
 			<span class="program-announce__speaker-link">
 			Наталья Краснова
@@ -179,14 +179,315 @@
 			</span>
 		</div>
 		<div class="program-announce__name">
-			<span class="js-font-size">Управление эффективностью персонала при дистанционном формате работы</span>
+			<span class="js-font-size">Эмоциональное выгорание - как недопустить?</span>
 		</div>
 	</a>
 	</div>
 	<div class="col-md-2 more_info_parent">
-	<a class="more_info" href="natalya.php">Подробнее</a>
+	<a class="more_info" href="#">Подробнее</a>
 	</div>
 </div>
+
+
+<hr>
+
+<div class="row">
+	<div class="col-md-2">
+	<a href="#" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/krasnova1.jpg);">
+		<div class="program-announce__date">
+			<div class="program-announce__day">08</div>
+			<div class="program-announce__mounth">декабря</div>
+		</div>
+	</a>
+	</div>
+	<div class="col-md-8">
+	<a class="program-announce__middle" href="#">
+		<div class="program-announce__speaker">
+			<span class="program-announce__speaker-link">
+			Наталья Краснова
+			</span>
+		</div>
+		<div class="program-announce__city">
+			<span class="text-color_brown">ОНЛАЙН</span>
+		</div>
+		<div class="program-announce__theme">
+			<span class="text-color_brown">
+			Семинар
+			</span>
+		</div>
+		<div class="program-announce__name">
+			<span class="js-font-size">«Самоорганизация в новых условиях 2020 для повышения личной эффективности: планирование и основы тайм менеджмента».</span>
+		</div>
+	</a>
+	</div>
+	<div class="col-md-2 more_info_parent">
+	<a class="more_info" href="#">Подробнее</a>
+	</div>
+</div>
+
+
+<hr>
+
+<div class="row">
+	<div class="col-md-2">
+	<a href="#" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/krasnova1.jpg);">
+		<div class="program-announce__date">
+			<div class="program-announce__day">09</div>
+			<div class="program-announce__mounth">декабря</div>
+		</div>
+	</a>
+	</div>
+	<div class="col-md-8">
+	<a class="program-announce__middle" href="#">
+		<div class="program-announce__speaker">
+			<span class="program-announce__speaker-link">
+			Наталья Краснова
+			</span>
+		</div>
+		<div class="program-announce__city">
+			<span class="text-color_brown">ОНЛАЙН</span>
+		</div>
+		<div class="program-announce__theme">
+			<span class="text-color_brown">
+			Семинар
+			</span>
+		</div>
+		<div class="program-announce__name">
+			<span class="js-font-size">Трудовые отношения с учетом изменений в Трудовом Законодательстве РК </span>
+		</div>
+	</a>
+	</div>
+	<div class="col-md-2 more_info_parent">
+	<a class="more_info" href="#">Подробнее</a>
+	</div>
+</div>
+
+
+
+<hr>
+
+<div class="row">
+	<div class="col-md-2">
+	<a href="#" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/krasnova1.jpg);">
+		<div class="program-announce__date">
+			<div class="program-announce__day">10</div>
+			<div class="program-announce__mounth">декабря</div>
+		</div>
+	</a>
+	</div>
+	<div class="col-md-8">
+	<a class="program-announce__middle" href="#">
+		<div class="program-announce__speaker">
+			<span class="program-announce__speaker-link">
+			Наталья Краснова
+			</span>
+		</div>
+		<div class="program-announce__city">
+			<span class="text-color_brown">ОНЛАЙН</span>
+		</div>
+		<div class="program-announce__theme">
+			<span class="text-color_brown">
+			Семинар
+			</span>
+		</div>
+		<div class="program-announce__name">
+			<span class="js-font-size">Все про расторжение трудового договора ( с учетом всех изменений в Законодательстве РК )</span>
+		</div>
+	</a>
+	</div>
+	<div class="col-md-2 more_info_parent">
+	<a class="more_info" href="#">Подробнее</a>
+	</div>
+</div>
+
+
+<hr>
+
+<div class="row">
+	<div class="col-md-2">
+	<a href="#" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/krasnova1.jpg);">
+		<div class="program-announce__date">
+			<div class="program-announce__day">11</div>
+			<div class="program-announce__mounth">декабря</div>
+		</div>
+	</a>
+	</div>
+	<div class="col-md-8">
+	<a class="program-announce__middle" href="#">
+		<div class="program-announce__speaker">
+			<span class="program-announce__speaker-link">
+			Наталья Краснова
+			</span>
+		</div>
+		<div class="program-announce__city">
+			<span class="text-color_brown">ОНЛАЙН</span>
+		</div>
+		<div class="program-announce__theme">
+			<span class="text-color_brown">
+			Семинар
+			</span>
+		</div>
+		<div class="program-announce__name">
+			<span class="js-font-size">Трудовые конфликты и их профилактика</span>
+		</div>
+	</a>
+	</div>
+	<div class="col-md-2 more_info_parent">
+	<a class="more_info" href="#">Подробнее</a>
+	</div>
+</div>
+
+
+
+<hr>
+
+<div class="row">
+	<div class="col-md-2">
+	<a href="#" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/krasnova1.jpg);">
+		<div class="program-announce__date">
+			<div class="program-announce__day">11</div>
+			<div class="program-announce__mounth">декабря</div>
+		</div>
+	</a>
+	</div>
+	<div class="col-md-8">
+	<a class="program-announce__middle" href="#">
+		<div class="program-announce__speaker">
+			<span class="program-announce__speaker-link">
+			Наталья Краснова
+			</span>
+		</div>
+		<div class="program-announce__city">
+			<span class="text-color_brown">ОНЛАЙН</span>
+		</div>
+		<div class="program-announce__theme">
+			<span class="text-color_brown">
+			Семинар
+			</span>
+		</div>
+		<div class="program-announce__name">
+			<span class="js-font-size">ИНДИВИДУАЛЬНЫЕ ТРУДОВЫЕ СПОРЫ. СОГЛАСИТЕЛЬНАЯ КОМИССИЯ
+(с учетом изменений, внесенных в Трудовой кодекс РК в 2020 г.)</span>
+		</div>
+	</a>
+	</div>
+	<div class="col-md-2 more_info_parent">
+	<a class="more_info" href="#">Подробнее</a>
+	</div>
+</div>
+
+
+<hr>
+
+<div class="row">
+	<div class="col-md-2">
+	<a href="#" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/krasnova1.jpg);">
+		<div class="program-announce__date">
+			<div class="program-announce__day">10-11</div>
+			<div class="program-announce__mounth">декабря</div>
+		</div>
+	</a>
+	</div>
+	<div class="col-md-8">
+	<a class="program-announce__middle" href="#">
+		<div class="program-announce__speaker">
+			<span class="program-announce__speaker-link">
+			Наталья Краснова
+			</span>
+		</div>
+		<div class="program-announce__city">
+			<span class="text-color_brown">ОНЛАЙН</span>
+		</div>
+		<div class="program-announce__theme">
+			<span class="text-color_brown">
+			Семинар
+			</span>
+		</div>
+		<div class="program-announce__name">
+			<span class="js-font-size">Новое в МСФО</span>
+		</div>
+	</a>
+	</div>
+	<div class="col-md-2 more_info_parent">
+	<a class="more_info" href="#">Подробнее</a>
+	</div>
+</div>
+
+
+<hr>
+
+<div class="row">
+	<div class="col-md-2">
+	<a href="#" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/krasnova1.jpg);">
+		<div class="program-announce__date">
+			<div class="program-announce__day">13</div>
+			<div class="program-announce__mounth">декабря</div>
+		</div>
+	</a>
+	</div>
+	<div class="col-md-8">
+	<a class="program-announce__middle" href="#">
+		<div class="program-announce__speaker">
+			<span class="program-announce__speaker-link">
+			Наталья Краснова
+			</span>
+		</div>
+		<div class="program-announce__city">
+			<span class="text-color_brown">ОНЛАЙН</span>
+		</div>
+		<div class="program-announce__theme">
+			<span class="text-color_brown">
+			Мастер класс
+			</span>
+		</div>
+		<div class="program-announce__name">
+			<span class="js-font-size">Управление персоналом: тренды и лучшие практики 2020</span>
+		</div>
+	</a>
+	</div>
+	<div class="col-md-2 more_info_parent">
+	<a class="more_info" href="#">Подробнее</a>
+	</div>
+</div>
+
+
+
+<hr>
+
+<div class="row">
+	<div class="col-md-2">
+	<a href="#" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/krasnova1.jpg);">
+		<div class="program-announce__date">
+			<div class="program-announce__day">18</div>
+			<div class="program-announce__mounth">декабря</div>
+		</div>
+	</a>
+	</div>
+	<div class="col-md-8">
+	<a class="program-announce__middle" href="#">
+		<div class="program-announce__speaker">
+			<span class="program-announce__speaker-link">
+			Наталья Краснова
+			</span>
+		</div>
+		<div class="program-announce__city">
+			<span class="text-color_brown">ОНЛАЙН</span>
+		</div>
+		<div class="program-announce__theme">
+			<span class="text-color_brown">
+			Семинар
+			</span>
+		</div>
+		<div class="program-announce__name">
+			<span class="js-font-size">Оказание первой доврачебной помощи</span>
+		</div>
+	</a>
+	</div>
+	<div class="col-md-2 more_info_parent">
+	<a class="more_info" href="#">Подробнее</a>
+	</div>
+</div>
+
 
 <hr>
 
