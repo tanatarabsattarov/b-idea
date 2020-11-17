@@ -240,7 +240,7 @@ a.navbar-brand {
 .program-announce__speaker {
     font-size: 16px;
     color: #242338;
-    display: inline-block;
+    display: none;
     font-weight: 700;
 }
 .program-announce__city {
