@@ -209,7 +209,8 @@ a.navbar-brand {
 .program-announce__date {
     background-color: #242338;
     position: absolute;
-    width: 110px;
+	/* width: 110px; */
+	width:100%;
     left: 0;
     top: 0;
     bottom: 0;

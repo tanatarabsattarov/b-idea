@@ -79,7 +79,7 @@
 	
 
 	<div class="row">
-		<div class="col-md-1">
+		<div class="col-md-2">
 		<a href="soglasitelnaya_komissiya_3.php" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/kolesnikova.jpg);">
 			<div class="program-announce__date">
 				<div class="program-announce__day">17</div>
@@ -87,7 +87,7 @@
 			</div>
 		</a>
 		</div>
-		<div class="col-md-7">
+		<div class="col-md-8">
 		<a class="program-announce__middle" href="soglasitelnaya_komissiya_3.php">
 			<div class="program-announce__speaker">
 				<span class="program-announce__speaker-link">
@@ -116,7 +116,7 @@
 	<hr>
 
 <div class="row">
-	<div class="col-md-3">
+	<div class="col-md-2">
 	<a href="tkrk-1819_k.php" class="program-announce__img-container" style="background-size:90%;background-position:top right;background-image:url(../images/trudovoi_kodeks.png);">
 		<div class="program-announce__date">
 			<div class="program-announce__day">18</div>
@@ -124,7 +124,7 @@
 		</div>
 	</a>
 	</div>
-	<div class="col-md-7">
+	<div class="col-md-8">
 	<a class="program-announce__middle" href="tkrk-1819_k.php">
 		<div class="program-announce__speaker">
 			<span class="program-announce__speaker-link">
@@ -155,7 +155,7 @@
 	<hr>
 
 <div class="row">
-	<div class="col-md-3">
+	<div class="col-md-2">
 	<a href="natalya.php" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/krasnova1.jpg);">
 		<div class="program-announce__date">
 			<div class="program-announce__day">23</div>
@@ -163,7 +163,7 @@
 		</div>
 	</a>
 	</div>
-	<div class="col-md-7">
+	<div class="col-md-8">
 	<a class="program-announce__middle" href="natalya.php">
 		<div class="program-announce__speaker">
 			<span class="program-announce__speaker-link">
@@ -191,7 +191,7 @@
 <hr>
 
 <div class="row">
-	<div class="col-md-3">
+	<div class="col-md-2">
 	<a href="natalya2.php" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/krasnova1.jpg);">
 		<div class="program-announce__date">
 			<div class="program-announce__day">21</div>
@@ -199,7 +199,7 @@
 		</div>
 	</a>
 	</div>
-	<div class="col-md-7">
+	<div class="col-md-8">
 	<a class="program-announce__middle" href="natalya2.php">
 		<div class="program-announce__speaker">
 			<span class="program-announce__speaker-link">
