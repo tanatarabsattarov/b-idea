@@ -79,7 +79,7 @@
 	
 
 	<div class="row">
-		<div class="col-md-3">
+		<div class="col-md-1">
 		<a href="soglasitelnaya_komissiya_3.php" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/kolesnikova.jpg);">
 			<div class="program-announce__date">
 				<div class="program-announce__day">17</div>
