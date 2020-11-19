@@ -22,7 +22,7 @@
 </div>
 
 <div class="carousel-item">
-<div class="mainbanner h-100" style="background-image:url('images/banner_for_safe.jpg')">
+<div class="mainbanner h-100" style="background-image:url('images/banner_for_safety.jpg')">
 	
 </div>
 </div>
