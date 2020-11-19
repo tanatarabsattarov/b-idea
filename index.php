@@ -23,9 +23,7 @@
 
 <div class="carousel-item">
 <div class="mainbanner h-100" style="background-image:url('images/banner_for_safety.jpg')">
-	<div class="d-flex h-100 align-items-end">
-			<a href="http://b-idea.kz/natalya2.php" target="_blank" class="register px-4 w-50">Подробнее</a>
-	</div>
+	
 </div>
 </div>
           <!-- <div class="carousel-item">
