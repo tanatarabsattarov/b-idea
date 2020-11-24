@@ -23,7 +23,6 @@
 
 <div class="carousel-item">
 <div class="mainbanner h-100" style="background-image:url('images/banner_for_safety.jpg')">
-	
 </div>
 </div>
           <!-- <div class="carousel-item">
@@ -73,81 +72,6 @@
 		
 	
 
-	<div class="row">
-		<div class="col-md-2">
-		<a href="soglasitelnaya_komissiya_3.php" class="program-announce__img-container" style="background-size:60%;background-position:top right;background-image:url(../images/kolesnikova.jpg);">
-			<div class="program-announce__date">
-				<div class="program-announce__day">23</div>
-				<div class="program-announce__mounth">ноября</div>
-			</div>
-		</a>
-		</div>
-		<div class="col-md-8">
-		<a class="program-announce__middle" href="soglasitelnaya_komissiya_3.php">
-			<div class="program-announce__speaker">
-				<span class="program-announce__speaker-link">
-				Марина Колесникова
-				</span>
-			</div>
-			<div class="program-announce__city">
-				<span class="text-color_brown">ОНЛАЙН</span>
-			</div>
-			<div class="program-announce__theme">
-				<span class="text-color_brown">
-				Семинар
-				</span>
-			</div>
-			<div class="program-announce__name">
-				<span class="js-font-size">ИНДИВИДУАЛЬНЫЕ ТРУДОВЫЕ СПОРЫ.
-СОГЛАСИТЕЛЬНАЯ КОМИССИЯ</span>
-			</div>
-		</a>
-		</div>
-		<div class="col-md-2 more_info_parent">
-		<a class="more_info" href="soglasitelnaya_komissiya_3.php">Подробнее</a>
-		</div>
-	</div>
-
-	<hr>
-
-<div class="row">
-	<div class="col-md-2">
-	<a href="#" class="program-announce__img-container" style="background-size:90%;background-position:top right;background-image:url(../images/trudovoi_kodeks.png);">
-		<div class="program-announce__date">
-			<div class="program-announce__day">23-24</div>
-			<div class="program-announce__mounth">ноября</div>
-		</div>
-	</a>
-	</div>
-	<div class="col-md-8">
-	<a class="program-announce__middle" href="#">
-		<div class="program-announce__speaker">
-			<span class="program-announce__speaker-link">
-			Марина Колесникова / Ирина Виговская
-			</span>
-		</div>
-		<div class="program-announce__city">
-			<span class="text-color_brown">ОНЛАЙН</span>
-		</div>
-		<div class="program-announce__theme">
-			<span class="text-color_brown">
-			Семинар
-			</span>
-		</div>
-		<div class="program-announce__name" style="font-size:15px;">
-			<span class="js-font-size">Новое в МСФО
-</span>
-		</div>
-	</a>
-	</div>
-	<div class="col-md-2 more_info_parent">
-	<a class="more_info" href="#">Подробнее</a>
-	</div>
-</div>
-
-
-
-	<hr>
 
 <div class="row">
 	<div class="col-md-2">
